@@ -6706,3 +6706,538 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.03-18.08.04:870][923]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/ThirdPersonExampleMap_Auto3DE8967D34F46532092FCD3923A113B11.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto3.umap'
 [2020.08.03-18.08.04:873][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.831
 [2020.08.03-18.08.04:873][923]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.831
+[2020.08.03-18.29.21:088][516]LogTemp: Resetting audio stream to device id 
+[2020.08.03-18.29.21:148][516]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-18.29.21:149][516]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-18.29.21:149][516]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-18.29.21:149][516]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-18.29.21:149][516]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-18.29.21:149][516]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-18.29.21:149][516]LogAudioMixer: Display: Channel Order:
+[2020.08.03-18.29.21:149][516]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-18.29.21:149][516]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-18.29.38:399][994]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-18.29.38:760][995]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-18.58.50:500][995]LogD3D11RHI: GetQueryData is taking a very long time (1751.7 s)
+[2020.08.03-18.58.50:500][995]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-18.59.00:082][995]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-18.59.00:083][995]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-18.59.00:083][995]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-18.59.02:487][995]LogTemp: Resetting audio stream to device id 
+[2020.08.03-18.59.02:611][995]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-18.59.02:611][995]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-18.59.02:611][995]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-18.59.02:611][995]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-18.59.02:611][995]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-18.59.02:611][995]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-18.59.02:611][995]LogAudioMixer: Display: Channel Order:
+[2020.08.03-18.59.02:611][995]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-18.59.02:611][995]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-18.59.06:499][996]LogTemp: Resetting audio stream to device id 
+[2020.08.03-18.59.06:565][996]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-18.59.06:566][996]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-18.59.06:566][996]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-18.59.06:566][996]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-18.59.06:566][996]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-18.59.06:566][996]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-18.59.06:566][996]LogAudioMixer: Display: Channel Order:
+[2020.08.03-18.59.06:566][996]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-18.59.06:566][996]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-18.59.07:776][997]LogTemp: Resetting audio stream to device id 
+[2020.08.03-18.59.08:399][997]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-18.59.08:399][997]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-18.59.08:400][997]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-18.59.08:400][997]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-18.59.08:400][997]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-18.59.08:400][997]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-18.59.08:400][997]LogAudioMixer: Display: Channel Order:
+[2020.08.03-18.59.08:400][997]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-18.59.08:400][997]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-18.59.09:069][998]LogTemp: Resetting audio stream to device id 
+[2020.08.03-18.59.09:158][998]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-18.59.09:158][998]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-18.59.09:160][998]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-18.59.09:160][998]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-18.59.09:160][998]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-18.59.09:160][998]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-18.59.09:160][998]LogAudioMixer: Display: Channel Order:
+[2020.08.03-18.59.09:160][998]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-18.59.09:160][998]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-18.59.14:699][109]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-18.59.15:277][110]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-22.37.41:735][110]LogD3D11RHI: GetQueryData is taking a very long time (13106.3 s)
+[2020.08.03-22.37.41:736][110]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-22.37.42:002][110]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-22.37.47:424][110]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-22.37.47:424][110]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.03-22.37.58:119][110]LogTemp: Resetting audio stream to device id 
+[2020.08.03-22.38.01:162][110]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-22.38.01:162][110]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-22.38.01:162][110]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-22.38.01:162][110]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-22.38.01:162][110]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-22.38.01:162][110]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-22.38.01:162][110]LogAudioMixer: Display: Channel Order:
+[2020.08.03-22.38.01:162][110]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-22.38.01:162][110]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-22.38.02:917][111]LogTemp: Resetting audio stream to device id 
+[2020.08.03-22.38.03:278][111]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-22.38.03:278][111]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-22.38.03:278][111]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-22.38.03:278][111]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-22.38.03:278][111]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-22.38.03:279][111]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-22.38.03:279][111]LogAudioMixer: Display: Channel Order:
+[2020.08.03-22.38.03:279][111]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-22.38.03:279][111]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-22.38.04:368][112]LogTemp: Resetting audio stream to device id 
+[2020.08.03-22.38.04:476][112]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-22.38.04:477][112]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-22.38.04:477][112]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-22.38.04:477][112]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-22.38.04:477][112]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-22.38.04:477][112]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-22.38.04:477][112]LogAudioMixer: Display: Channel Order:
+[2020.08.03-22.38.04:477][112]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-22.38.04:477][112]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-22.43.37:553][653]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.08.03-22.43.37:554][653]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.03-22.43.38:949][700]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.03-22.43.58:528][176]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.03-22.44.46:414][655]Candidate modules for hot reload:
+[2020.08.03-22.44.46:414][655]  PuzzlePlatforms
+[2020.08.03-22.44.46:415][655]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PuzzlePlatforms,7816 Win64 Development -TargetType=Editor -Project="C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject" "C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject"  -IgnoreJunk]
+[2020.08.03-22.45.25:284][655]CompilerResultsLog: New page: Compilation - Aug 4, 2020, 12:45:25 AM
+[2020.08.03-22.45.25:287][655]CompilerResultsLog: WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2020.08.03-22.45.25:287][655]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\RLLiveLink\RLLiveLink.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2020.08.03-22.45.25:287][655]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer).
+[2020.08.03-22.45.25:287][655]CompilerResultsLog: Invalidating makefile for PuzzlePlatformsEditor (source file added)
+[2020.08.03-22.45.25:287][655]CompilerResultsLog: Parsing headers for PuzzlePlatformsEditor
+[2020.08.03-22.45.25:287][655]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject" "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\PuzzlePlatformsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.03-22.45.25:288][655]CompilerResultsLog: Reflection code generated for PuzzlePlatformsEditor in 10.8775723 seconds
+[2020.08.03-22.45.25:288][655]CompilerResultsLog: Building PuzzlePlatformsEditor...
+[2020.08.03-22.45.25:288][655]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.14393.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.03-22.45.25:288][655]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.08.03-22.45.25:288][655]CompilerResultsLog:   [1/6] PuzzlePlatforms.init.gen.cpp
+[2020.08.03-22.45.25:288][655]CompilerResultsLog:   [2/6] PuzzlePlatformsGameInstance.cpp
+[2020.08.03-22.45.25:288][655]CompilerResultsLog:   [3/6] PuzzlePlatformsGameInstance.gen.cpp
+[2020.08.03-22.45.25:288][655]CompilerResultsLog:   [4/6] UE4Editor-PuzzlePlatforms-7816.lib
+[2020.08.03-22.45.25:288][655]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-7816.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-7816.exp
+[2020.08.03-22.45.25:288][655]CompilerResultsLog:   [5/6] UE4Editor-PuzzlePlatforms-7816.dll
+[2020.08.03-22.45.25:288][655]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-7816.suppressed.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-7816.suppressed.exp
+[2020.08.03-22.45.25:288][655]CompilerResultsLog:   [6/6] PuzzlePlatformsEditor.target
+[2020.08.03-22.45.25:288][655]CompilerResultsLog: Total time in Parallel executor: 22.76 seconds
+[2020.08.03-22.45.25:288][655]CompilerResultsLog: Total execution time: 38.61 seconds
+[2020.08.03-22.45.25:289][655]LogMainFrame: MainFrame: Module compiling took 38.885 seconds
+[2020.08.03-22.45.25:396][655]LogUObjectHash: Compacting FUObjectHashTables data took  18.34ms
+[2020.08.03-22.45.25:466][655]LogClass: Could not find existing class PuzzlePlatformsGameInstance in package /Script/PuzzlePlatforms for HotReload, assuming new class
+[2020.08.03-22.45.25:495][655]LogContentBrowser: Native class hierarchy updated for 'PuzzlePlatforms' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2020.08.03-22.45.25:504][655]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.08.03-22.45.25:733][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.08.03-22.45.25:796][655]LogContentBrowser: Native class hierarchy populated in 0.0203 seconds. Added 3022 classes and 722 folders.
+[2020.08.03-22.45.25:797][655]Display: HotReload took 39.4s.
+[2020.08.03-22.45.25:810][655]Warning: HotReload operation took 39.4s.
+[2020.08.03-22.45.26:121][655]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Source/PuzzlePlatforms/PuzzlePlatformsGameInstance.h'
+[2020.08.03-22.45.26:356][655]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Source/PuzzlePlatforms/PuzzlePlatformsGameInstance.cpp'
+[2020.08.03-22.45.26:394][655]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.08.03-22.45.27:672][655]LogHotReload: New module detected: UE4Editor-PuzzlePlatforms-7816.dll
+[2020.08.03-22.45.27:814][656]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.03-22.45.29:054][656]LogUObjectHash: Compacting FUObjectHashTables data took  15.79ms
+[2020.08.03-22.45.29:080][656]LogContentBrowser: Native class hierarchy updated for 'PuzzlePlatforms' in 0.0019 seconds. Added 5 classes and 2 folders.
+[2020.08.03-22.45.29:104][656]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.03-22.45.30:643][656]LogUObjectHash: Compacting FUObjectHashTables data took  10.03ms
+[2020.08.03-22.45.30:743][656]LogContentBrowser: Native class hierarchy populated in 0.0178 seconds. Added 3022 classes and 722 folders.
+[2020.08.03-22.45.30:786][656]Display: HotReload took  3.0s.
+[2020.08.03-22.46.21:423][312]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.03-22.57.39:077][454]Candidate modules for hot reload:
+[2020.08.03-22.57.39:077][454]  PuzzlePlatforms
+[2020.08.03-22.57.39:077][454]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PuzzlePlatforms,8853 Win64 Development -TargetType=Editor -Project="C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject" "C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject"  -IgnoreJunk]
+[2020.08.03-22.57.39:096][454]Warning: Starting HotReload took  0.1s.
+[2020.08.03-22.58.34:317][580]CompilerResultsLog: New page: Compilation - Aug 4, 2020, 12:58:34 AM
+[2020.08.03-22.58.34:320][580]CompilerResultsLog: WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2020.08.03-22.58.34:320][580]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\RLLiveLink\RLLiveLink.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2020.08.03-22.58.34:320][580]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer).
+[2020.08.03-22.58.34:320][580]CompilerResultsLog: Parsing headers for PuzzlePlatformsEditor
+[2020.08.03-22.58.34:320][580]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject" "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\PuzzlePlatformsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.03-22.58.34:320][580]CompilerResultsLog: Reflection code generated for PuzzlePlatformsEditor in 17.7120319 seconds
+[2020.08.03-22.58.34:320][580]CompilerResultsLog: Building PuzzlePlatformsEditor...
+[2020.08.03-22.58.34:320][580]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.14393.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.03-22.58.34:321][580]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.08.03-22.58.34:321][580]CompilerResultsLog:   [1/6] PuzzlePlatformsGameInstance.cpp
+[2020.08.03-22.58.34:321][580]CompilerResultsLog:   [2/6] PuzzlePlatforms.init.gen.cpp
+[2020.08.03-22.58.34:321][580]CompilerResultsLog:   [3/6] PuzzlePlatformsGameInstance.gen.cpp
+[2020.08.03-22.58.34:321][580]CompilerResultsLog:   [4/6] UE4Editor-PuzzlePlatforms-8853.lib
+[2020.08.03-22.58.34:321][580]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-8853.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-8853.exp
+[2020.08.03-22.58.34:321][580]CompilerResultsLog:   [5/6] UE4Editor-PuzzlePlatforms-8853.dll
+[2020.08.03-22.58.34:321][580]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-8853.suppressed.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-8853.suppressed.exp
+[2020.08.03-22.58.34:321][580]CompilerResultsLog:   [6/6] PuzzlePlatformsEditor.target
+[2020.08.03-22.58.34:321][580]CompilerResultsLog: Total time in Parallel executor: 33.70 seconds
+[2020.08.03-22.58.34:321][580]CompilerResultsLog: Total execution time: 54.78 seconds
+[2020.08.03-22.58.34:321][580]LogMainFrame: MainFrame: Module compiling took 55.262 seconds
+[2020.08.03-22.58.34:629][580]LogUObjectHash: Compacting FUObjectHashTables data took  16.25ms
+[2020.08.03-22.58.34:702][580]LogClass: Could not find existing class PuzzlePlatformsGameInstance in package /Script/PuzzlePlatforms for HotReload, assuming new class
+[2020.08.03-22.58.34:714][580]LogTemp: Warning: GameInstance Constructor
+[2020.08.03-22.58.34:743][580]LogHotReload: Re-instancing PuzzlePlatformsGameInstance after hot-reload.
+[2020.08.03-22.58.35:851][580]LogContentBrowser: Native class hierarchy updated for 'PuzzlePlatforms' in 0.0008 seconds. Added 5 classes and 2 folders.
+[2020.08.03-22.58.35:860][580]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.08.03-22.58.36:137][580]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.08.03-22.58.36:160][580]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 3022 classes and 722 folders.
+[2020.08.03-22.58.36:162][580]Display: HotReload took 57.2s.
+[2020.08.03-22.58.38:713][696]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.03-22.58.38:757][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.58.38:768][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-22.58.38:769][696]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 4, 2020, 12:58:38 AM)
+[2020.08.03-22.58.38:775][696]LogTemp: Warning: GameInstance Constructor
+[2020.08.03-22.58.38:779][696]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.08.03-22.58.38:959][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178591s)
+[2020.08.03-22.58.39:027][696]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.03-22.58.39:041][696]LogPlayLevel: PIE: World Init took: (0.082201s)
+[2020.08.03-22.58.39:042][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.263380s)
+[2020.08.03-22.58.39:150][696]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2020.08.03-22.58.39:154][696]LogTemp: Warning: GameInstance Init
+[2020.08.03-22.58.39:161][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-22.58.39:161][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-22.58.39:161][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-22.58.39:161][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-22.58.39:161][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-22.58.39:161][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-22.58.39:161][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-22.58.39:162][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-22.58.39:163][696]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-22.58.39:163][696]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-22.58.39:183][696]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-22.58.39:184][696]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-22.58.39:184][696]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-22.58.39:184][696]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-22.58.39:184][696]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-22.58.39:184][696]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-22.58.39:184][696]LogAudioMixer: Display: Channel Order:
+[2020.08.03-22.58.39:184][696]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-22.58.39:184][696]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-22.58.39:410][696]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.03-22.58.39:420][696]LogInit: FAudioDevice initialized.
+[2020.08.03-22.58.39:464][696]LogLoad: Game class is 'PuzzlePlatformsGameMode'
+[2020.08.03-22.58.39:495][696]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.03-23.58.39
+[2020.08.03-22.58.39:499][696]LogWorld: Bringing up level for play took: 0.027577
+[2020.08.03-22.58.39:509][696]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2020.08.03-22.58.39:604][696]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.08.03-22.58.39:605][696]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.08.03-22.58.39:606][696]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.08.03-22.58.39:608][696]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.03-22.58.39:609][696]LogNet: GameNetDriver IpNetDriver_56 IpNetDriver listening on port 17777
+[2020.08.03-22.58.39:618][696]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.288
+[2020.08.03-22.58.39:623][696]LogTemp: Warning: GameInstance Constructor
+[2020.08.03-22.58.39:628][696]LogTemp: Warning: GameInstance Init
+[2020.08.03-22.58.39:694][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.58.39:698][696]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+[2020.08.03-22.58.39:700][696]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.08.03-22.58.39:703][696]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.03-22.58.39:706][696]LogNet: Game client on port 17777, rate 10000
+[2020.08.03-22.58.39:762][696]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap 0.432
+[2020.08.03-22.58.39:767][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.58.39:768][696]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60493
+[2020.08.03-22.58.39:769][696]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 008036055251109241071025065059004008253170155232094062218070
+[2020.08.03-22.58.39:781][696]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 008036055251109241071025065059004008253170155232094062218070
+[2020.08.03-22.58.39:952][697]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60493
+[2020.08.03-22.58.39:952][697]LogHandshake: SendChallengeAck. InCookie: 008036055251109241071025065059004008253170155232094062218070
+[2020.08.03-22.58.39:952][697]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60493
+[2020.08.03-22.58.39:954][697]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.03-22.58.39:955][697]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 08/03/20 23:58:39, [UNetConnection] RemoteAddr: 127.0.0.1:60493, Name: IpConnection_57, Driver: GameNetDriver IpNetDriver_56, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.03-22.58.39:955][697]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60493, Name: IpConnection_57, Driver: GameNetDriver IpNetDriver_56, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.03-22.58.39:957][697]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_56, Driver: PendingNetDriver IpNetDriver_57, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.03-22.58.39:984][698]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.08.03-22.58.39:985][698]LogNet: Remote platform little endian=1
+[2020.08.03-22.58.39:985][698]LogNet: This platform little endian=1
+[2020.08.03-22.58.39:988][698]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2020.08.03-22.58.40:000][699]LogNet: Login request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-UNEK68K-E67C8F844C6BB6B2A18F29B9DCD5F13E userId: NULL:DESKTOP-UNEK68K-E67C8F844C6BB6B2A18F29B9DCD5F13E platform: NULL
+[2020.08.03-22.58.40:002][699]LogNet: Welcomed by server (Level: /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Script/PuzzlePlatforms.PuzzlePlatformsGameMode)
+[2020.08.03-22.58.40:002][699]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Script/PuzzlePlatforms.PuzzlePlatformsGameMode
+[2020.08.03-22.58.40:002][699]LogWorld: BeginTearingDown for /Temp/Untitled_29
+[2020.08.03-22.58.40:004][699]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-22.58.40:005][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.58.40:007][699]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.58.40:109][699]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.08.03-22.58.40:131][699]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.03-22.58.40:142][699]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.03-23.58.40
+[2020.08.03-22.58.40:142][699]LogWorld: Bringing up level for play took: 0.009537
+[2020.08.03-22.58.40:143][699]LogLoad: Took 0.141291 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.08.03-22.58.40:201][700]LogNet: Client netspeed is 10000
+[2020.08.03-22.58.40:201][700]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-UNEK68K-E67C8F844C6BB6B2A18F29B9DCD5F13E?SplitscreenCount=1
+[2020.08.03-22.58.40:202][700]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.03-22.58.40:217][700]LogNet: Join succeeded: DESKTOP-UNEK68K-E67C
+[2020.08.03-22.58.40:494][709]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.03-22.58.40:517][710]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.03-22.58.44:572][862]LogGameplayDebugReplication: Error: Category count mismtach! received:5 expected:0
+[2020.08.03-22.59.08:023][112]Cmd: SELECT NONE
+[2020.08.03-22.59.09:201][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.09:201][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.09:204][171]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.59.09:206][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.09:206][171]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_2_ThirdPersonExampleMap
+[2020.08.03-22.59.09:217][171]LogSlate: Window 'PuzzlePlatforms Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.03-22.59.09:220][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.09:222][171]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-22.59.09:226][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.09:240][171]LogNet: World NetDriver shutdown IpNetDriver_57 [GameNetDriver]
+[2020.08.03-22.59.09:240][171]LogNet: DestroyNamedNetDriver IpNetDriver_57 [GameNetDriver]
+[2020.08.03-22.59.09:242][171]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_56, Driver: GameNetDriver IpNetDriver_57, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-E67C8F844C6BB6B2A18F29B9DCD5F13E, Channels: 14, Time: 2020.08.03-22.59.09
+[2020.08.03-22.59.09:242][171]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_56, Driver: GameNetDriver IpNetDriver_57, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-E67C8F844C6BB6B2A18F29B9DCD5F13E
+[2020.08.03-22.59.09:243][171]LogExit: GameNetDriver IpNetDriver_57 shut down
+[2020.08.03-22.59.09:248][171]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.08.03-22.59.09:250][171]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.08.03-22.59.09:251][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.09:253][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.09:254][171]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-22.59.09:255][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.09:320][171]LogNet: World NetDriver shutdown IpNetDriver_56 [GameNetDriver]
+[2020.08.03-22.59.09:320][171]LogNet: DestroyNamedNetDriver IpNetDriver_56 [GameNetDriver]
+[2020.08.03-22.59.09:321][171]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:60493, Name: IpConnection_57, Driver: GameNetDriver IpNetDriver_56, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-E67C8F844C6BB6B2A18F29B9DCD5F13E
+[2020.08.03-22.59.09:321][171]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60493, Name: IpConnection_57, Driver: GameNetDriver IpNetDriver_56, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-E67C8F844C6BB6B2A18F29B9DCD5F13E, Channels: 14, Time: 2020.08.03-22.59.09
+[2020.08.03-22.59.09:321][171]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60493, Name: IpConnection_57, Driver: GameNetDriver IpNetDriver_56, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-E67C8F844C6BB6B2A18F29B9DCD5F13E
+[2020.08.03-22.59.09:322][171]LogExit: GameNetDriver IpNetDriver_56 shut down
+[2020.08.03-22.59.09:323][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-22.59.09:325][171]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.59.09:335][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.09:389][171]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.09:409][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.09:436][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.08.03-22.59.09:534][172]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2020.08.03-22.59.09:536][172]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2020.08.03-22.59.10:210][203]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.03-22.59.10:229][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.59.10:229][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-22.59.10:229][203]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 4, 2020, 12:59:10 AM)
+[2020.08.03-22.59.10:230][203]LogTemp: Warning: GameInstance Constructor
+[2020.08.03-22.59.10:230][203]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.08.03-22.59.10:245][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014104s)
+[2020.08.03-22.59.10:246][203]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.03-22.59.10:246][203]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2020.08.03-22.59.10:246][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015552s)
+[2020.08.03-22.59.10:319][203]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.08.03-22.59.10:319][203]LogTemp: Warning: GameInstance Init
+[2020.08.03-22.59.10:320][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-22.59.10:320][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-22.59.10:320][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-22.59.10:320][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-22.59.10:320][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-22.59.10:320][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-22.59.10:320][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-22.59.10:320][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-22.59.10:320][203]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-22.59.10:320][203]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-22.59.10:356][203]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-22.59.10:356][203]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-22.59.10:356][203]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-22.59.10:356][203]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-22.59.10:356][203]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-22.59.10:356][203]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-22.59.10:356][203]LogAudioMixer: Display: Channel Order:
+[2020.08.03-22.59.10:356][203]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-22.59.10:356][203]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-22.59.10:503][203]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.03-22.59.10:508][203]LogInit: FAudioDevice initialized.
+[2020.08.03-22.59.10:520][203]LogLoad: Game class is 'PuzzlePlatformsGameMode'
+[2020.08.03-22.59.10:522][203]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.03-23.59.10
+[2020.08.03-22.59.10:522][203]LogWorld: Bringing up level for play took: 0.001315
+[2020.08.03-22.59.10:522][203]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2020.08.03-22.59.10:527][203]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.08.03-22.59.10:527][203]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.08.03-22.59.10:527][203]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.08.03-22.59.10:527][203]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.03-22.59.10:527][203]LogNet: GameNetDriver IpNetDriver_58 IpNetDriver listening on port 17777
+[2020.08.03-22.59.10:528][203]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap 1.198
+[2020.08.03-22.59.10:528][203]LogTemp: Warning: GameInstance Constructor
+[2020.08.03-22.59.10:530][203]LogTemp: Warning: GameInstance Init
+[2020.08.03-22.59.10:614][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.10:614][203]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+[2020.08.03-22.59.10:615][203]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.08.03-22.59.10:616][203]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.03-22.59.10:616][203]LogNet: Game client on port 17777, rate 10000
+[2020.08.03-22.59.10:618][203]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap 1.288
+[2020.08.03-22.59.10:623][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.59.10:623][203]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64046
+[2020.08.03-22.59.10:623][203]LogHandshake: SendConnectChallenge. Timestamp: 0.016814, Cookie: 181247097060241009240176254160117152220090056053014138062058
+[2020.08.03-22.59.10:624][203]LogHandshake: SendChallengeResponse. Timestamp: 0.016814, Cookie: 181247097060241009240176254160117152220090056053014138062058
+[2020.08.03-22.59.10:731][204]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64046
+[2020.08.03-22.59.10:731][204]LogHandshake: SendChallengeAck. InCookie: 181247097060241009240176254160117152220090056053014138062058
+[2020.08.03-22.59.10:731][204]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64046
+[2020.08.03-22.59.10:731][204]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.03-22.59.10:731][204]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 08/03/20 23:59:10, [UNetConnection] RemoteAddr: 127.0.0.1:64046, Name: IpConnection_59, Driver: GameNetDriver IpNetDriver_58, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.03-22.59.10:731][204]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64046, Name: IpConnection_59, Driver: GameNetDriver IpNetDriver_58, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.03-22.59.10:733][204]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_58, Driver: PendingNetDriver IpNetDriver_59, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.03-22.59.10:772][205]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.08.03-22.59.10:772][205]LogNet: Remote platform little endian=1
+[2020.08.03-22.59.10:772][205]LogNet: This platform little endian=1
+[2020.08.03-22.59.10:773][205]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2020.08.03-22.59.10:810][206]LogNet: Login request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-UNEK68K-59ED03B04911F7B7A1B9E7B7BE77DA57 userId: NULL:DESKTOP-UNEK68K-59ED03B04911F7B7A1B9E7B7BE77DA57 platform: NULL
+[2020.08.03-22.59.10:812][206]LogNet: Welcomed by server (Level: /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Script/PuzzlePlatforms.PuzzlePlatformsGameMode)
+[2020.08.03-22.59.10:812][206]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Script/PuzzlePlatforms.PuzzlePlatformsGameMode
+[2020.08.03-22.59.10:812][206]LogWorld: BeginTearingDown for /Temp/Untitled_30
+[2020.08.03-22.59.10:813][206]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-22.59.10:813][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.10:813][206]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.10:892][206]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.08.03-22.59.10:921][206]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.03-22.59.10:924][206]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.03-23.59.10
+[2020.08.03-22.59.10:924][206]LogWorld: Bringing up level for play took: 0.001233
+[2020.08.03-22.59.10:924][206]LogLoad: Took 0.112658 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.08.03-22.59.10:949][207]LogNet: Client netspeed is 10000
+[2020.08.03-22.59.10:949][207]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-UNEK68K-59ED03B04911F7B7A1B9E7B7BE77DA57?SplitscreenCount=1
+[2020.08.03-22.59.10:950][207]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.03-22.59.10:952][207]LogNet: Join succeeded: DESKTOP-UNEK68K-59ED
+[2020.08.03-22.59.11:301][215]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.03-22.59.11:454][217]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.03-22.59.24:098][775]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.24:098][775]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.24:098][775]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.59.24:098][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.24:098][775]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_2_ThirdPersonExampleMap
+[2020.08.03-22.59.24:121][775]LogSlate: Window 'PuzzlePlatforms Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.03-22.59.24:123][775]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.24:123][775]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-22.59.24:124][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.24:131][775]LogNet: World NetDriver shutdown IpNetDriver_59 [GameNetDriver]
+[2020.08.03-22.59.24:131][775]LogNet: DestroyNamedNetDriver IpNetDriver_59 [GameNetDriver]
+[2020.08.03-22.59.24:131][775]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_58, Driver: GameNetDriver IpNetDriver_59, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-59ED03B04911F7B7A1B9E7B7BE77DA57, Channels: 14, Time: 2020.08.03-22.59.24
+[2020.08.03-22.59.24:131][775]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_58, Driver: GameNetDriver IpNetDriver_59, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-59ED03B04911F7B7A1B9E7B7BE77DA57
+[2020.08.03-22.59.24:132][775]LogExit: GameNetDriver IpNetDriver_59 shut down
+[2020.08.03-22.59.24:133][775]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.08.03-22.59.24:133][775]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.08.03-22.59.24:133][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.24:133][775]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.24:134][775]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-22.59.24:134][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.24:144][775]LogNet: World NetDriver shutdown IpNetDriver_58 [GameNetDriver]
+[2020.08.03-22.59.24:144][775]LogNet: DestroyNamedNetDriver IpNetDriver_58 [GameNetDriver]
+[2020.08.03-22.59.24:144][775]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:64046, Name: IpConnection_59, Driver: GameNetDriver IpNetDriver_58, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-59ED03B04911F7B7A1B9E7B7BE77DA57
+[2020.08.03-22.59.24:144][775]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64046, Name: IpConnection_59, Driver: GameNetDriver IpNetDriver_58, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-59ED03B04911F7B7A1B9E7B7BE77DA57, Channels: 14, Time: 2020.08.03-22.59.24
+[2020.08.03-22.59.24:144][775]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64046, Name: IpConnection_59, Driver: GameNetDriver IpNetDriver_58, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-59ED03B04911F7B7A1B9E7B7BE77DA57
+[2020.08.03-22.59.24:144][775]LogExit: GameNetDriver IpNetDriver_58 shut down
+[2020.08.03-22.59.24:145][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-22.59.24:146][775]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.59.24:154][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.24:211][775]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.24:218][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.24:227][775]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2020.08.03-22.59.24:259][776]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2020.08.03-22.59.24:259][776]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2020.08.03-22.59.35:122][334]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2020.08.03-22.59.45:812][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.03-22.59.47:181][981]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.03-22.59.47:203][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.59.47:204][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.03-22.59.47:204][981]PIE: New page: PIE session: ThirdPersonExampleMap (Aug 4, 2020, 12:59:47 AM)
+[2020.08.03-22.59.47:204][981]LogTemp: Warning: GameInstance Constructor
+[2020.08.03-22.59.47:204][981]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.08.03-22.59.47:234][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029785s)
+[2020.08.03-22.59.47:238][981]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.03-22.59.47:239][981]LogPlayLevel: PIE: World Init took: (0.004237s)
+[2020.08.03-22.59.47:239][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034302s)
+[2020.08.03-22.59.47:304][981]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.08.03-22.59.47:305][981]LogTemp: Warning: GameInstance Init
+[2020.08.03-22.59.47:305][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.03-22.59.47:305][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.03-22.59.47:305][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.03-22.59.47:305][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.03-22.59.47:306][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.03-22.59.47:306][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.03-22.59.47:306][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.03-22.59.47:306][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.03-22.59.47:307][981]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.03-22.59.47:307][981]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.03-22.59.47:324][981]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.03-22.59.47:324][981]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.03-22.59.47:324][981]LogAudioMixer: Display: Is Default: Yes
+[2020.08.03-22.59.47:324][981]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.03-22.59.47:324][981]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.03-22.59.47:324][981]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.03-22.59.47:324][981]LogAudioMixer: Display: Channel Order:
+[2020.08.03-22.59.47:324][981]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-22.59.47:324][981]LogAudioMixer: Display: 1: FrontRight
+[2020.08.03-22.59.47:431][981]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.03-22.59.47:433][981]LogInit: FAudioDevice initialized.
+[2020.08.03-22.59.47:445][981]LogLoad: Game class is 'PuzzlePlatformsGameMode'
+[2020.08.03-22.59.47:447][981]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.03-23.59.47
+[2020.08.03-22.59.47:447][981]LogWorld: Bringing up level for play took: 0.001178
+[2020.08.03-22.59.47:447][981]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2020.08.03-22.59.47:451][981]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.08.03-22.59.47:451][981]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.08.03-22.59.47:452][981]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.08.03-22.59.47:452][981]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.03-22.59.47:452][981]LogNet: GameNetDriver IpNetDriver_60 IpNetDriver listening on port 17777
+[2020.08.03-22.59.47:452][981]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.123
+[2020.08.03-22.59.47:452][981]LogTemp: Warning: GameInstance Constructor
+[2020.08.03-22.59.47:454][981]LogTemp: Warning: GameInstance Init
+[2020.08.03-22.59.47:501][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.47:501][981]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+[2020.08.03-22.59.47:502][981]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.08.03-22.59.47:502][981]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.03-22.59.47:502][981]LogNet: Game client on port 17777, rate 10000
+[2020.08.03-22.59.47:504][981]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap 0.175
+[2020.08.03-22.59.47:509][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.59.47:509][981]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56498
+[2020.08.03-22.59.47:509][981]LogHandshake: SendConnectChallenge. Timestamp: 0.016903, Cookie: 013026024113109020117250233111084100079092152227158165171120
+[2020.08.03-22.59.47:510][981]LogHandshake: SendChallengeResponse. Timestamp: 0.016903, Cookie: 013026024113109020117250233111084100079092152227158165171120
+[2020.08.03-22.59.47:623][982]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56498
+[2020.08.03-22.59.47:623][982]LogHandshake: SendChallengeAck. InCookie: 013026024113109020117250233111084100079092152227158165171120
+[2020.08.03-22.59.47:623][982]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56498
+[2020.08.03-22.59.47:623][982]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.03-22.59.47:623][982]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 08/03/20 23:59:47, [UNetConnection] RemoteAddr: 127.0.0.1:56498, Name: IpConnection_61, Driver: GameNetDriver IpNetDriver_60, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.03-22.59.47:624][982]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56498, Name: IpConnection_61, Driver: GameNetDriver IpNetDriver_60, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.03-22.59.47:625][982]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_60, Driver: PendingNetDriver IpNetDriver_61, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.08.03-22.59.47:672][983]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.08.03-22.59.47:672][983]LogNet: Remote platform little endian=1
+[2020.08.03-22.59.47:672][983]LogNet: This platform little endian=1
+[2020.08.03-22.59.47:675][983]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2020.08.03-22.59.47:692][984]LogNet: Login request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-UNEK68K-4268567C44DF4BE1DCD4998F2C234DFA userId: NULL:DESKTOP-UNEK68K-4268567C44DF4BE1DCD4998F2C234DFA platform: NULL
+[2020.08.03-22.59.47:693][984]LogNet: Welcomed by server (Level: /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Script/PuzzlePlatforms.PuzzlePlatformsGameMode)
+[2020.08.03-22.59.47:693][984]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Script/PuzzlePlatforms.PuzzlePlatformsGameMode
+[2020.08.03-22.59.47:693][984]LogWorld: BeginTearingDown for /Temp/Untitled_31
+[2020.08.03-22.59.47:693][984]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-22.59.47:693][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.47:693][984]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.47:799][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.08.03-22.59.47:827][984]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.03-22.59.47:834][984]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.03-23.59.47
+[2020.08.03-22.59.47:834][984]LogWorld: Bringing up level for play took: 0.005400
+[2020.08.03-22.59.47:834][984]LogLoad: Took 0.140657 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.08.03-22.59.47:850][985]LogNet: Client netspeed is 10000
+[2020.08.03-22.59.47:851][985]LogNet: Join request: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?Name=DESKTOP-UNEK68K-4268567C44DF4BE1DCD4998F2C234DFA?SplitscreenCount=1
+[2020.08.03-22.59.47:851][985]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.03-22.59.47:853][985]LogNet: Join succeeded: DESKTOP-UNEK68K-4268
+[2020.08.03-22.59.48:086][994]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.03-22.59.48:113][995]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.03-22.59.57:905][433]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.57:906][433]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.57:906][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.59.57:909][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.57:909][433]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_2_ThirdPersonExampleMap
+[2020.08.03-22.59.57:926][433]LogSlate: Window 'PuzzlePlatforms Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.03-22.59.57:928][433]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.57:928][433]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-22.59.57:928][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.57:938][433]LogNet: World NetDriver shutdown IpNetDriver_61 [GameNetDriver]
+[2020.08.03-22.59.57:938][433]LogNet: DestroyNamedNetDriver IpNetDriver_61 [GameNetDriver]
+[2020.08.03-22.59.57:938][433]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_60, Driver: GameNetDriver IpNetDriver_61, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-4268567C44DF4BE1DCD4998F2C234DFA, Channels: 14, Time: 2020.08.03-22.59.57
+[2020.08.03-22.59.57:938][433]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_60, Driver: GameNetDriver IpNetDriver_61, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-4268567C44DF4BE1DCD4998F2C234DFA
+[2020.08.03-22.59.57:939][433]LogExit: GameNetDriver IpNetDriver_61 shut down
+[2020.08.03-22.59.57:940][433]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.08.03-22.59.57:940][433]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.08.03-22.59.57:940][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.57:940][433]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.57:940][433]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.03-22.59.57:941][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.57:950][433]LogNet: World NetDriver shutdown IpNetDriver_60 [GameNetDriver]
+[2020.08.03-22.59.57:950][433]LogNet: DestroyNamedNetDriver IpNetDriver_60 [GameNetDriver]
+[2020.08.03-22.59.57:950][433]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56498, Name: IpConnection_61, Driver: GameNetDriver IpNetDriver_60, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-4268567C44DF4BE1DCD4998F2C234DFA
+[2020.08.03-22.59.57:950][433]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56498, Name: IpConnection_61, Driver: GameNetDriver IpNetDriver_60, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-4268567C44DF4BE1DCD4998F2C234DFA, Channels: 14, Time: 2020.08.03-22.59.57
+[2020.08.03-22.59.57:950][433]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56498, Name: IpConnection_61, Driver: GameNetDriver IpNetDriver_60, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-UNEK68K-4268567C44DF4BE1DCD4998F2C234DFA
+[2020.08.03-22.59.57:950][433]LogExit: GameNetDriver IpNetDriver_60 shut down
+[2020.08.03-22.59.57:952][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.03-22.59.57:952][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.08.03-22.59.57:962][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.03-22.59.58:015][433]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.03-22.59.58:024][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.03-22.59.58:034][433]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2020.08.03-22.59.58:061][434]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.08.03-22.59.58:063][434]LogPlayLevel: Display: Destroying online subsystem :Context_76
