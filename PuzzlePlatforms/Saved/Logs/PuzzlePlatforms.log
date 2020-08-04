@@ -8212,3 +8212,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.04-00.16.02:617][761]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.08.04-00.16.02:670][761]LogUObjectHash: Compacting FUObjectHashTables data took  17.24ms
 [2020.08.04-00.16.02:838][762]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2020.08.04-00.26.01:019][412]Candidate modules for hot reload:
+[2020.08.04-00.26.01:019][412]  PuzzlePlatforms
+[2020.08.04-00.26.01:020][412]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PuzzlePlatforms,1188 Win64 Development -TargetType=Editor -Project="C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject" "C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject"  -IgnoreJunk]
+[2020.08.04-00.26.01:043][412]Warning: Starting HotReload took  0.1s.
+[2020.08.04-00.26.37:921][474]CompilerResultsLog: New page: Compilation - Aug 4, 2020, 2:26:37 AM
+[2020.08.04-00.26.37:928][474]CompilerResultsLog: WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2020.08.04-00.26.37:929][474]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\RLLiveLink\RLLiveLink.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2020.08.04-00.26.37:929][474]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer).
+[2020.08.04-00.26.37:929][474]CompilerResultsLog: Parsing headers for PuzzlePlatformsEditor
+[2020.08.04-00.26.37:929][474]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject" "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\PuzzlePlatformsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.04-00.26.37:929][474]CompilerResultsLog: Reflection code generated for PuzzlePlatformsEditor in 13.6223922 seconds
+[2020.08.04-00.26.37:929][474]CompilerResultsLog: Building PuzzlePlatformsEditor...
+[2020.08.04-00.26.37:929][474]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.14393.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.04-00.26.37:929][474]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.08.04-00.26.37:929][474]CompilerResultsLog:   [1/4] PuzzlePlatformsGameInstance.cpp
+[2020.08.04-00.26.37:929][474]CompilerResultsLog:   [2/4] UE4Editor-PuzzlePlatforms-1188.lib
+[2020.08.04-00.26.37:929][474]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-1188.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-1188.exp
+[2020.08.04-00.26.37:929][474]CompilerResultsLog:   [3/4] UE4Editor-PuzzlePlatforms-1188.dll
+[2020.08.04-00.26.37:929][474]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-1188.suppressed.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-1188.suppressed.exp
+[2020.08.04-00.26.37:929][474]CompilerResultsLog:   [4/4] PuzzlePlatformsEditor.target
+[2020.08.04-00.26.37:929][474]CompilerResultsLog: Total time in Parallel executor: 20.67 seconds
+[2020.08.04-00.26.37:929][474]CompilerResultsLog: Total execution time: 36.61 seconds
+[2020.08.04-00.26.37:930][474]LogMainFrame: MainFrame: Module compiling took 36.925 seconds
+[2020.08.04-00.26.37:992][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.08.04-00.26.38:048][474]LogTemp: Warning: GameInstance Constructor
+[2020.08.04-00.26.38:049][474]LogContentBrowser: Native class hierarchy updated for 'PuzzlePlatforms' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2020.08.04-00.26.38:058][474]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.08.04-00.26.38:335][474]LogUObjectHash: Compacting FUObjectHashTables data took   8.46ms
+[2020.08.04-00.26.38:371][474]LogContentBrowser: Native class hierarchy populated in 0.0192 seconds. Added 3022 classes and 722 folders.
+[2020.08.04-00.26.38:371][474]Display: HotReload took 37.4s.
+[2020.08.04-00.32.27:648][459]Candidate modules for hot reload:
+[2020.08.04-00.32.27:648][459]  PuzzlePlatforms
+[2020.08.04-00.32.27:648][459]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PuzzlePlatforms,3608 Win64 Development -TargetType=Editor -Project="C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject" "C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject"  -IgnoreJunk]
+[2020.08.04-00.32.27:665][459]Warning: Starting HotReload took  0.1s.
+[2020.08.04-00.33.05:515][379]CompilerResultsLog: New page: Compilation - Aug 4, 2020, 2:33:05 AM
+[2020.08.04-00.33.05:521][379]CompilerResultsLog: WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2020.08.04-00.33.05:521][379]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\RLLiveLink\RLLiveLink.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2020.08.04-00.33.05:522][379]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer).
+[2020.08.04-00.33.05:522][379]CompilerResultsLog: Parsing headers for PuzzlePlatformsEditor
+[2020.08.04-00.33.05:522][379]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject" "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\PuzzlePlatformsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.04-00.33.05:522][379]CompilerResultsLog: Reflection code generated for PuzzlePlatformsEditor in 13.179826 seconds
+[2020.08.04-00.33.05:522][379]CompilerResultsLog: Building PuzzlePlatformsEditor...
+[2020.08.04-00.33.05:522][379]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.14393.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.04-00.33.05:522][379]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.08.04-00.33.05:522][379]CompilerResultsLog:   [1/4] PuzzlePlatformsGameInstance.cpp
+[2020.08.04-00.33.05:522][379]CompilerResultsLog:   [2/4] UE4Editor-PuzzlePlatforms-3608.lib
+[2020.08.04-00.33.05:522][379]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-3608.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-3608.exp
+[2020.08.04-00.33.05:522][379]CompilerResultsLog:   [3/4] UE4Editor-PuzzlePlatforms-3608.dll
+[2020.08.04-00.33.05:522][379]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-3608.suppressed.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-3608.suppressed.exp
+[2020.08.04-00.33.05:522][379]CompilerResultsLog:   [4/4] PuzzlePlatformsEditor.target
+[2020.08.04-00.33.05:522][379]CompilerResultsLog: Total time in Parallel executor: 22.23 seconds
+[2020.08.04-00.33.05:522][379]CompilerResultsLog: Total execution time: 37.47 seconds
+[2020.08.04-00.33.05:522][379]LogMainFrame: MainFrame: Module compiling took 37.889 seconds
+[2020.08.04-00.33.05:661][379]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2020.08.04-00.33.05:876][379]LogTemp: Warning: GameInstance Constructor
+[2020.08.04-00.33.05:878][379]LogContentBrowser: Native class hierarchy updated for 'PuzzlePlatforms' in 0.0007 seconds. Added 5 classes and 2 folders.
+[2020.08.04-00.33.05:907][379]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.08.04-00.33.06:243][379]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.08.04-00.33.06:279][379]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 3022 classes and 722 folders.
+[2020.08.04-00.33.06:279][379]Display: HotReload took 38.7s.
