@@ -24,8 +24,8 @@ Windows.Engine:AssetRegistry:CookedTagsAsPathName:0=GeneratedClass
 Windows.Engine:AssetRegistry:CookedTagsAsPathName:1=ParentClass
 Windows.Engine:AssetRegistry:CookedTagsAsLocText:0=DisplayName
 Windows.Engine:AssetRegistry:bSerializeSearchableNameDependencies:0=false
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/PuzzlePlatforms.PuzzlePlatformsGameInstance
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/PuzzlePlatform/Maps/Lobby.Lobby
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/PuzzlePlatforms.PuzzlePlatformsGameMode
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
@@ -1460,20 +1460,20 @@ Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:TargetedHardw
 Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedTargetedHardwareClass:0=Desktop
 Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:DefaultGraphicsPerformance:0=Maximum
 Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphicsPerformance:0=Maximum
-Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/PuzzlePlatforms.PuzzlePlatformsGameInstance
+Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/PuzzlePlatform/Maps/Lobby.Lobby
 Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/PuzzlePlatforms.PuzzlePlatformsGameMode
-Android.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Android.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+Android.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/PuzzlePlatforms.PuzzlePlatformsGameInstance
+Android.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/PuzzlePlatform/Maps/Lobby.Lobby
 Android.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Android.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/PuzzlePlatforms.PuzzlePlatformsGameMode
-IOS.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-IOS.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+IOS.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/PuzzlePlatforms.PuzzlePlatformsGameInstance
+IOS.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/PuzzlePlatform/Maps/Lobby.Lobby
 IOS.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 IOS.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/PuzzlePlatforms.PuzzlePlatformsGameMode
-Linux.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Linux.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+Linux.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/PuzzlePlatforms.PuzzlePlatformsGameInstance
+Linux.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/PuzzlePlatform/Maps/Lobby.Lobby
 Linux.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Linux.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/PuzzlePlatforms.PuzzlePlatformsGameMode
 Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks
@@ -1652,6 +1652,8 @@ Windows.Input:/Script/Engine.InputSettings:AxisMappings:28=(AxisName="MoveForwar
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:29=(AxisName="MoveRight",Scale=1.000000,Key=OculusTouch_Left_Thumbstick_X)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:30=(AxisName="MoveRight",Scale=1.000000,Key=ValveIndex_Left_Thumbstick_X)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:31=(AxisName="MoveRight",Scale=1.000000,Key=MagicLeap_Left_Trackpad_X)
+Windows.Input:/Script/Engine.Console:HistoryBuffer:0=Host
+Windows.Input:/Script/Engine.Console:HistoryBot:0=-1
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:0=(Key=F11,Command="LevelEditor.ToggleImmersive", bIgnoreCtrl=True, bIgnoreAlt=True)
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:1=(Key=F11,Command="MainFrame.ToggleFullscreen",Shift=True)
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:2=(Key=F1,Command="viewmode wireframe", bIgnoreShift=True)
@@ -1669,7 +1671,6 @@ Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:13=(Key=PageUp,Comman
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:14=(Key=Apostrophe,Command="EnableGDT")
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:15=(Key=Quote,Command="EnableGDT")
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:16=(Key=Semicolon,Command="ToggleDebugCamera")
-Windows.Input:/Script/Engine.Console:HistoryBot:0=-1
 Windows.Input:/Script/EngineSettings.ConsoleSettings:MaxScrollbackSize:0=1024
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteMapPaths:0=Content/Maps
 Windows.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:0=(Command="Exit",Desc="Exits the game")
@@ -1852,7 +1853,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/harsh.DESKTOP-UNEK68K/Desktop/Project")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Build/WindowsNoEditor")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled

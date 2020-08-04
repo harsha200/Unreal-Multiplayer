@@ -1,0 +1,5 @@
+C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4\Development\PuzzlePlatforms\Definitions.PuzzlePlatforms.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Source\PuzzlePlatforms/PlatformTrigger.h
+c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\intermediate\build\win64\ue4\inc\puzzleplatforms\PlatformTrigger.generated.h

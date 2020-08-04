@@ -8272,3 +8272,301 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.04-00.33.06:243][379]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
 [2020.08.04-00.33.06:279][379]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 3022 classes and 722 folders.
 [2020.08.04-00.33.06:279][379]Display: HotReload took 38.7s.
+[2020.08.04-00.41.17:281][942]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2020.08.04-00.41.17:431][942]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.08.04-00.41.17:832][942]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/LobbyE1075818446EE8E30483DFB776AC2B21.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Content/PuzzlePlatform/Maps/Lobby.umap'
+[2020.08.04-00.41.17:880][942]LogFileHelpers: Saving map 'Lobby' took 0.529
+[2020.08.04-00.41.34:412][942]AssetCheck: New page: Asset Save: Lobby
+[2020.08.04-00.41.34:412][942]LogContentValidation: Display: Validating World /Game/PuzzlePlatform/Maps/Lobby.Lobby
+[2020.08.04-00.41.35:394][  8]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2020.08.04-00.41.37:196][145]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project=C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject -cook -stage -archive -archivedirectory=C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Build/WindowsNoEditor -package -ue4exe="C:\Program Files\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -target=PuzzlePlatforms -clientconfig=Development -utf8output
+[2020.08.04-00.41.38:166][175]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject
+[2020.08.04-00.41.40:463][279]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2020.08.04-00.41.40:520][282]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.24\Engine\Binaries\DotNET\UnrealBuildTool.exe PuzzlePlatforms Win64 Development -Project=C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject  C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject -NoUBTMakefiles  -remoteini="C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms" -skipdeploy -Manifest=C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Manifest.xml -NoHotReload -log="C:\Users\harsh.DESKTOP-UNEK68K\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.24\UBT-PuzzlePlatforms-Win64-Development.txt"
+[2020.08.04-00.41.41:506][287]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer).
+[2020.08.04-00.41.41:506][287]UATHelper: Packaging (Windows (64-bit)):   WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2020.08.04-00.41.41:506][287]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\RLLiveLink\RLLiveLink.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2020.08.04-00.41.41:506][287]PackagingResults: Warning: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2020.08.04-00.41.41:506][287]PackagingResults: Warning: The 'Developer' module type has been deprecated in 4.24.
+[2020.08.04-00.41.43:040][320]UATHelper: Packaging (Windows (64-bit)):   Parsing headers for PuzzlePlatforms
+[2020.08.04-00.41.43:101][324]UATHelper: Packaging (Windows (64-bit)):     Running UnrealHeaderTool "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject" "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatforms\Development\PuzzlePlatforms.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.04-00.41.52:692][957]UATHelper: Packaging (Windows (64-bit)):   Reflection code generated for PuzzlePlatforms in 9.5905376 seconds
+[2020.08.04-00.41.54:741][964]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Manifest.xml
+[2020.08.04-00.41.54:741][964]UATHelper: Packaging (Windows (64-bit)):   Building PuzzlePlatforms...
+[2020.08.04-00.41.54:741][964]UATHelper: Packaging (Windows (64-bit)):   Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.14393.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.04-00.41.54:741][964]UATHelper: Packaging (Windows (64-bit)):   Building 9 actions with 4 processes...
+[2020.08.04-00.42.18:430][973]UATHelper: Packaging (Windows (64-bit)):     [1/9] PlatformTrigger.cpp
+[2020.08.04-00.42.18:489][976]UATHelper: Packaging (Windows (64-bit)):     [2/9] MovingPlatform.cpp
+[2020.08.04-00.42.18:506][977]UATHelper: Packaging (Windows (64-bit)):     [3/9] PuzzlePlatformsGameInstance.cpp
+[2020.08.04-00.42.18:685][987]UATHelper: Packaging (Windows (64-bit)):     [4/9] MovingPlatform.gen.cpp
+[2020.08.04-00.42.21:133][130]UATHelper: Packaging (Windows (64-bit)):     [5/9] PuzzlePlatforms.init.gen.cpp
+[2020.08.04-00.42.21:931][178]UATHelper: Packaging (Windows (64-bit)):     [6/9] PuzzlePlatformsGameInstance.gen.cpp
+[2020.08.04-00.42.22:264][200]UATHelper: Packaging (Windows (64-bit)):     [7/9] PlatformTrigger.gen.cpp
+[2020.08.04-00.42.48:475][ 94]UATHelper: Packaging (Windows (64-bit)):     [8/9] PuzzlePlatforms.exe
+[2020.08.04-00.42.48:475][ 94]UATHelper: Packaging (Windows (64-bit)):        Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Binaries\Win64\PuzzlePlatforms.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Binaries\Win64\PuzzlePlatforms.exp
+[2020.08.04-00.42.48:475][ 94]UATHelper: Packaging (Windows (64-bit)):     [9/9] PuzzlePlatforms.target
+[2020.08.04-00.42.48:475][ 94]UATHelper: Packaging (Windows (64-bit)):   Total time in Parallel executor: 54.32 seconds
+[2020.08.04-00.42.48:475][ 94]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 67.85 seconds
+[2020.08.04-00.42.48:804][ 95]UATHelper: Packaging (Windows (64-bit)): Took 67.9755508s to run UnrealBuildTool.exe, ExitCode=0
+[2020.08.04-00.42.48:804][ 95]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2020.08.04-00.42.48:804][ 95]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2020.08.04-00.42.48:804][ 95]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject
+[2020.08.04-00.42.48:804][ 95]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.08.04-01.42.48.txt
+[2020.08.04-00.42.48:804][ 95]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.08.04-01.42.48.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2020.08.04-00.42.49:472][ 97]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2020.08.04-00.42.49:473][ 97]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: PuzzlePlatforms
+[2020.08.04-00.42.51:487][103]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [8449904640 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.04-00.42.53:846][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.04-00.42.53:847][108]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.08.04-00.42.53:847][108]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.04-00.42.54:187][110]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.04-00.42.54:857][112]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.04-00.42.55:193][113]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/harsh.DESKTOP-UNEK68K/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.08.04-00.42.55:193][113]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.04-00.42.56:942][117]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Warning: GameInstance Constructor
+[2020.08.04-00.42.56:942][117]PackagingResults: Warning: GameInstance Constructor
+[2020.08.04-00.42.57:285][119]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.04-00.42.57:286][119]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.04-00.42.58:298][122]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.04-00.42.58:298][122]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2020.08.04-00.42.58:298][122]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2020.08.04-00.42.58:631][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2020.08.04-00.42.58:631][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2020.08.04-00.42.58:631][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.08.04-00.42.58:631][123]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.172 seconds for platforms WindowsNoEditor  iterative false
+[2020.08.04-00.42.59:979][127]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 212 Total 212
+[2020.08.04-00.43.00:438][128]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 211 Total 261
+[2020.08.04-00.43.01:294][129]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 211 Total 311
+[2020.08.04-00.43.01:294][129]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 211 Total 361
+[2020.08.04-00.43.01:814][130]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 195 Packages Remain 210 Total 405
+[2020.08.04-00.43.01:814][130]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 195 Packages Remain 34 Total 229
+[2020.08.04-00.43.02:164][131]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 198 Packages Remain 33 Total 231
+[2020.08.04-00.43.02:164][131]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 209 Packages Remain 32 Total 241
+[2020.08.04-00.43.02:730][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 214 Packages Remain 31 Total 245
+[2020.08.04-00.43.02:730][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 224 Packages Remain 30 Total 254
+[2020.08.04-00.43.02:730][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 225 Packages Remain 21 Total 246
+[2020.08.04-00.43.02:730][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 225 Packages Remain 0 Total 225
+[2020.08.04-00.43.02:730][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2020.08.04-00.43.02:731][132]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2020.08.04-00.43.02:731][132]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2020.08.04-00.43.02:731][132]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 221, size is 98.86kb
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 2.594105s total time 4.603934
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 598MB Peak Used physical 561MB
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 1.907s (1)
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 0.461s (1)
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CleanSandboxTime: 0.172s (1)
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.006s (1)
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.405s (1)
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2020.08.04-00.43.02:737][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 2.591s (24)
+[2020.08.04-00.43.02:738][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackage: 0.652s (24)
+[2020.08.04-00.43.02:738][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.025s (24)
+[2020.08.04-00.43.02:744][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (24)
+[2020.08.04-00.43.02:744][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 1.910s (9)
+[2020.08.04-00.43.02:744][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.001s (240)
+[2020.08.04-00.43.02:744][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.870s (235)
+[2020.08.04-00.43.02:744][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 1.023s (225)
+[2020.08.04-00.43.02:744][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.001s (225)
+[2020.08.04-00.43.02:744][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 1.010s (225)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.005s (225)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.002s (221)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.005s (225)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (3)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.007s (1)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.048s (1)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.006s (1)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.038s (1)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.011s (1)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.007s (1)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.019s (1)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.001s (1)
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.004729s to verify the EDL loading graph.
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000076
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=152
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.599123
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=225
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.962969
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.277383
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.037820
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.000723
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.001367
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000215
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.073093
+[2020.08.04-00.43.02:745][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.109417
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.072824
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=92.438059
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.08.04-00.43.02:746][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=13.814816
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=9.195910
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=4.617803
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.907722
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000244
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=2.694543
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.654057
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.023307
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.894793
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.007730
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.005511
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000008
+[2020.08.04-00.43.02:747][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000546
+[2020.08.04-00.43.02:748][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000002
+[2020.08.04-00.43.02:748][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.08.04-00.43.02:749][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2020.08.04-00.43.02:749][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2020.08.04-00.43.02:749][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       575
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       575
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.083478
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.916522
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2020.08.04-00.43.02:755][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2020.08.04-00.43.02:756][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.26                   0.26             0          7.34
+[2020.08.04-00.43.02:756][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.24                   0.01             0         20.89
+[2020.08.04-00.43.02:756][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.21                   0.21             0         38.33
+[2020.08.04-00.43.02:756][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.09                   0.09             0          1.11
+[2020.08.04-00.43.02:756][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.05                   0.05             0          5.49
+[2020.08.04-00.43.02:756][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.03                   0.03             0          0.52
+[2020.08.04-00.43.02:756][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.00                   0.00             0          3.09
+[2020.08.04-00.43.02:756][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.03
+[2020.08.04-00.43.02:756][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2020.08.04-00.43.02:756][132]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.02
+[2020.08.04-00.43.02:757][132]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.08.04-00.43.02:757][132]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2020.08.04-00.43.02:757][132]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2020.08.04-00.43.02:757][132]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogTemp: Warning: GameInstance Constructor
+[2020.08.04-00.43.02:757][132]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.08.04-00.43.02:757][132]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 1 warning(s)
+[2020.08.04-00.43.02:757][132]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.08.04-00.43.02:757][132]UATHelper: Packaging (Windows (64-bit)):   
+[2020.08.04-00.43.02:757][132]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  4.64 seconds
+[2020.08.04-00.43.05:672][141]UATHelper: Packaging (Windows (64-bit)): Took 16.7989447s to run UE4Editor-Cmd.exe, ExitCode=0
+[2020.08.04-00.43.05:672][141]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2020.08.04-00.43.05:672][141]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2020.08.04-00.43.05:672][141]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditor.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditorKeyBindings.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditorSettings.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseLightmass.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BasePakFileRules.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Category.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Editor.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\EditorTutorials.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Engine.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Keywords.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\PortableObjectExport.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\PortableObjectImport.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\PropertyNames.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\RepairData.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\ToolTips.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\WordCount.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Config\DefaultEditor.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Config\DefaultEditorPerProjectUserSettings.ini
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Saved\StagedBuilds\WindowsNoEditor
+[2020.08.04-00.43.06:030][142]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2020.08.04-00.43.06:456][143]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2020.08.04-00.43.09:465][152]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2020.08.04-00.43.09:465][152]UATHelper: Packaging (Windows (64-bit)): Output from: C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Saved\StagedBuilds\WindowsNoEditor\PuzzlePlatforms\Content\Paks\PuzzlePlatforms-WindowsNoEditor.pak -create="C:\Users\harsh.DESKTOP-UNEK68K\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.24\PakList_PuzzlePlatforms-WindowsNoEditor.txt" -cryptokeys=C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Saved\Cooked\WindowsNoEditor\PuzzlePlatforms\Metadata\Crypto.json -order=C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -compressionformats=  -multiprocess -abslog="C:\Users\harsh.DESKTOP-UNEK68K\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.24\UnrealPak-PuzzlePlatforms-WindowsNoEditor-2020.08.04-01.43.06.txt"
+[2020.08.04-00.43.09:465][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\harsh.DESKTOP-UNEK68K\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.24\PakList_PuzzlePlatforms-WindowsNoEditor.txt
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1516 entries to add to pak file.
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 1516 files in 0.01s.
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Saved\StagedBuilds\WindowsNoEditor\PuzzlePlatforms\Content\Paks\PuzzlePlatforms-WindowsNoEditor.pak.
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1516 files, 115620558 bytes total, time 1.37s.
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 1.416552 seconds
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2020.08.04-00.43.09:466][152]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Saved\StagedBuilds\WindowsNoEditor
+[2020.08.04-00.43.10:810][156]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2020.08.04-00.43.10:810][156]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2020.08.04-00.43.10:810][156]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2020.08.04-00.43.10:810][156]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2020.08.04-00.43.10:810][156]UATHelper: Packaging (Windows (64-bit)): Archiving to C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Build/WindowsNoEditor
+[2020.08.04-00.43.11:816][159]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2020.08.04-00.43.11:816][159]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2020.08.04-00.43.11:816][159]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
