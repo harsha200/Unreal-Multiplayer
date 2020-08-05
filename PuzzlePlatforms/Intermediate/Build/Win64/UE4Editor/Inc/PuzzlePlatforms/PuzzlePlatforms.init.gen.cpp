@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodePuzzlePlatforms_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x1FDA1EA3,
+				0x98D3F6D1,
 				0x803EE6E9,
 				METADATA_PARAMS(nullptr, 0)
 			};
