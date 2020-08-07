@@ -1,0 +1,18 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer).
+  Creating makefile for PuzzlePlatformsEditor (no existing makefile)
+UnrealBuildTool : warning : The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\RLLiveLink\RLLiveLink.uplugin : warning : The 'Developer' module type has been deprecated in 4.24.
+  Parsing headers for PuzzlePlatformsEditor
+    Running UnrealHeaderTool "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject" "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\PuzzlePlatformsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for PuzzlePlatformsEditor in 19.9210598 seconds
+  Building PuzzlePlatformsEditor...
+  Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.14393.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 4 processes...
+    [1/4] PuzzlePlatformsGameInstance.cpp
+    [2/4] UE4Editor-PuzzlePlatforms.lib
+       Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms.exp
+    [3/4] UE4Editor-PuzzlePlatforms.dll
+       Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms.suppressed.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms.suppressed.exp
+    [4/4] PuzzlePlatformsEditor.target
+  Total time in Parallel executor: 27.49 seconds
+  Total execution time: 50.20 seconds

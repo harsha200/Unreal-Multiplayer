@@ -117,4 +117,6 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\menusystem\MenuInterface.h
+c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\intermediate\build\win64\ue4editor\inc\puzzleplatforms\MenuInterface.generated.h
 c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\intermediate\build\win64\ue4editor\inc\puzzleplatforms\MainMenu.generated.h

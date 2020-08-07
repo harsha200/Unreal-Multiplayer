@@ -17,10 +17,38 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 	PUZZLEPLATFORMS_API UClass* Z_Construct_UClass_UMainMenu();
 	UMG_API UClass* Z_Construct_UClass_UUserWidget();
 	UPackage* Z_Construct_UPackage__Script_PuzzlePlatforms();
+	PUZZLEPLATFORMS_API UFunction* Z_Construct_UFunction_UMainMenu_HostServer();
 	UMG_API UClass* Z_Construct_UClass_UButton_NoRegister();
 // End Cross Module References
 	void UMainMenu::StaticRegisterNativesUMainMenu()
 	{
+		UClass* Class = UMainMenu::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "HostServer", &UMainMenu::execHostServer },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_UMainMenu_HostServer_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UMainMenu_HostServer_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "MenuSystem/MainMenu.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UMainMenu_HostServer_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UMainMenu, nullptr, "HostServer", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UMainMenu_HostServer_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UMainMenu_HostServer_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_UMainMenu_HostServer()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UMainMenu_HostServer_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	UClass* Z_Construct_UClass_UMainMenu_NoRegister()
 	{
@@ -29,6 +57,7 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 	struct Z_Construct_UClass_UMainMenu_Statics
 	{
 		static UObject* (*const DependentSingletons[])();
+		static const FClassFunctionLinkInfo FuncInfo[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
@@ -47,6 +76,9 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 	UObject* (*const Z_Construct_UClass_UMainMenu_Statics::DependentSingletons[])() = {
 		(UObject* (*)())Z_Construct_UClass_UUserWidget,
 		(UObject* (*)())Z_Construct_UPackage__Script_PuzzlePlatforms,
+	};
+	const FClassFunctionLinkInfo Z_Construct_UClass_UMainMenu_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_UMainMenu_HostServer, "HostServer" }, // 668415256
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMainMenu_Statics::Class_MetaDataParams[] = {
@@ -83,11 +115,11 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 		nullptr,
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
-		nullptr,
+		FuncInfo,
 		Z_Construct_UClass_UMainMenu_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
-		0,
+		UE_ARRAY_COUNT(FuncInfo),
 		UE_ARRAY_COUNT(Z_Construct_UClass_UMainMenu_Statics::PropPointers),
 		0,
 		0x00B010A0u,
@@ -102,7 +134,7 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UMainMenu, 1454308196);
+	IMPLEMENT_CLASS(UMainMenu, 3646034741);
 	template<> PUZZLEPLATFORMS_API UClass* StaticClass<UMainMenu>()
 	{
 		return UMainMenu::StaticClass();
