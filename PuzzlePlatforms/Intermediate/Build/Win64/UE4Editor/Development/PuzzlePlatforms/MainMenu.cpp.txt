@@ -1,5 +1,6 @@
 C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\Definitions.PuzzlePlatforms.h
 c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\menusystem\MainMenu.h
+c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\menusystem\MenuWidget.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
@@ -117,6 +118,7 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
 c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\menusystem\MenuInterface.h
 C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Inc\PuzzlePlatforms\MenuInterface.generated.h
+C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Inc\PuzzlePlatforms\MenuWidget.generated.h
 C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Inc\PuzzlePlatforms\MainMenu.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\UMG\Public\Components/Button.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\UMG\Public\Components/ContentWidget.h
@@ -126,3 +128,11 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\PanelWidget.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\ContentWidget.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Button.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\UMG\Public\Components/WidgetSwitcher.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SWidgetSwitcher.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetSwitcher.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\UMG\Public\Components/EditableTextBox.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\UMG\Public\Components/TextWidgetTypes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\TextWidgetTypes.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Text/ISlateEditableTextWidget.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\EditableTextBox.generated.h

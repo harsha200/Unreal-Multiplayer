@@ -33,6 +33,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_NATIVE_END; \
 	} \
  \
+	DECLARE_FUNCTION(execInGameLoadMenu) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->InGameLoadMenu(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execLoadMenu) \
 	{ \
 		P_FINISH; \
@@ -58,6 +66,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
 		P_THIS->Host(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execInGameLoadMenu) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->InGameLoadMenu(); \
 		P_NATIVE_END; \
 	} \
  \

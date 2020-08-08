@@ -119,6 +119,8 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
 c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\MenuSystem/MainMenu.h
+c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\menusystem\MenuWidget.h
+C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Inc\PuzzlePlatforms\MenuWidget.generated.h
 C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Inc\PuzzlePlatforms\MainMenu.generated.h
 c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\PlatformTrigger.h
 C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Inc\PuzzlePlatforms\PlatformTrigger.generated.h

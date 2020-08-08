@@ -18,6 +18,7 @@ void EmptyLinkFunctionForGeneratedCodePuzzlePlatformsGameInstance() {}
 	ENGINE_API UClass* Z_Construct_UClass_UGameInstance();
 	UPackage* Z_Construct_UPackage__Script_PuzzlePlatforms();
 	PUZZLEPLATFORMS_API UFunction* Z_Construct_UFunction_UPuzzlePlatformsGameInstance_Host();
+	PUZZLEPLATFORMS_API UFunction* Z_Construct_UFunction_UPuzzlePlatformsGameInstance_InGameLoadMenu();
 	PUZZLEPLATFORMS_API UFunction* Z_Construct_UFunction_UPuzzlePlatformsGameInstance_Join();
 	PUZZLEPLATFORMS_API UFunction* Z_Construct_UFunction_UPuzzlePlatformsGameInstance_LoadMenu();
 	PUZZLEPLATFORMS_API UClass* Z_Construct_UClass_UMenuInterface_NoRegister();
@@ -27,6 +28,7 @@ void EmptyLinkFunctionForGeneratedCodePuzzlePlatformsGameInstance() {}
 		UClass* Class = UPuzzlePlatformsGameInstance::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "Host", &UPuzzlePlatformsGameInstance::execHost },
+			{ "InGameLoadMenu", &UPuzzlePlatformsGameInstance::execInGameLoadMenu },
 			{ "Join", &UPuzzlePlatformsGameInstance::execJoin },
 			{ "LoadMenu", &UPuzzlePlatformsGameInstance::execLoadMenu },
 		};
@@ -51,6 +53,28 @@ void EmptyLinkFunctionForGeneratedCodePuzzlePlatformsGameInstance() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UPuzzlePlatformsGameInstance_Host_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_UPuzzlePlatformsGameInstance_InGameLoadMenu_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UPuzzlePlatformsGameInstance_InGameLoadMenu_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "PuzzlePlatformsGameInstance.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UPuzzlePlatformsGameInstance_InGameLoadMenu_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UPuzzlePlatformsGameInstance, nullptr, "InGameLoadMenu", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UPuzzlePlatformsGameInstance_InGameLoadMenu_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UPuzzlePlatformsGameInstance_InGameLoadMenu_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_UPuzzlePlatformsGameInstance_InGameLoadMenu()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UPuzzlePlatformsGameInstance_InGameLoadMenu_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -137,6 +161,7 @@ void EmptyLinkFunctionForGeneratedCodePuzzlePlatformsGameInstance() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UPuzzlePlatformsGameInstance_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_UPuzzlePlatformsGameInstance_Host, "Host" }, // 593614287
+		{ &Z_Construct_UFunction_UPuzzlePlatformsGameInstance_InGameLoadMenu, "InGameLoadMenu" }, // 2576752
 		{ &Z_Construct_UFunction_UPuzzlePlatformsGameInstance_Join, "Join" }, // 2821099042
 		{ &Z_Construct_UFunction_UPuzzlePlatformsGameInstance_LoadMenu, "LoadMenu" }, // 4288628050
 	};
@@ -178,7 +203,7 @@ void EmptyLinkFunctionForGeneratedCodePuzzlePlatformsGameInstance() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UPuzzlePlatformsGameInstance, 830001389);
+	IMPLEMENT_CLASS(UPuzzlePlatformsGameInstance, 103897989);
 	template<> PUZZLEPLATFORMS_API UClass* StaticClass<UPuzzlePlatformsGameInstance>()
 	{
 		return UPuzzlePlatformsGameInstance::StaticClass();

@@ -3,21 +3,27 @@
 
 #include "MainMenu.h"
 #include "Components/Button.h"
+#include "Components/WidgetSwitcher.h"
+#include "Components/EditableTextBox.h"
 
 bool UMainMenu::Initialize()
 {
 	bool success = Super::Initialize();
 	if (!success) return false;
 
-	if (!ensure(Host != nullptr)) return false;
-	Host->OnClicked.AddDynamic(this, &UMainMenu::HostServer);
+	if (!ensure(HostButton != nullptr)) return false;
+	HostButton->OnClicked.AddDynamic(this, &UMainMenu::HostServer);
+
+	if (!ensure(JoinButton != nullptr)) return false;
+	JoinButton->OnClicked.AddDynamic(this, &UMainMenu::OpenJoinMenu);
+
+	if (!ensure(CancelJoinMenuButton != nullptr)) return false;
+	CancelJoinMenuButton->OnClicked.AddDynamic(this, &UMainMenu::OpenMainMenu);
+
+	if (!ensure(CancelJoinMenuButton != nullptr)) return false;
+	ConfirmJoinMenuButton->OnClicked.AddDynamic(this, &UMainMenu::JoinServer);
 
 	return true; 
-}
-
-void UMainMenu::SetMenuInterface(IMenuInterface* MenuInterface1)
-{
-	MenuInterface = MenuInterface1;
 }
 
 void UMainMenu::HostServer()
@@ -28,38 +34,27 @@ void UMainMenu::HostServer()
 	}
 }
 
-void UMainMenu::Setup()
+void UMainMenu::JoinServer()
 {
-	this->AddToViewport();
+	if (MenuInterface != nullptr)
+	{
+		if (!ensure(IPAddressField != nullptr)) return;
+		const FString& Address = IPAddressField->GetText().ToString();
+		MenuInterface->Join(Address);
+	}
 
-	UWorld* World = GetWorld();
-	if (!ensure(World != nullptr)) return;
-
-	APlayerController* PlayerController = World->GetFirstPlayerController();
-	if (!ensure(PlayerController != nullptr)) return;
-
-	FInputModeUIOnly InputModeData;
-	InputModeData.SetWidgetToFocus(this->TakeWidget());
-	InputModeData.SetLockMouseToViewportBehavior(EMouseLockMode::DoNotLock);
-
-	PlayerController->SetInputMode(InputModeData);
-
-	PlayerController->bShowMouseCursor = true;
 }
 
-void UMainMenu::TearDown()
+void UMainMenu::OpenJoinMenu()
 {
-	this->RemoveFromViewport();
+	if (!ensure(MenuSwitcher != nullptr)) return;
+	if (!ensure(JoinMenu != nullptr)) return;
+	MenuSwitcher->SetActiveWidget(JoinMenu);
+}
 
-	UWorld* World = GetWorld();
-	if (!ensure(World != nullptr)) return;
-
-	APlayerController* PlayerController = World->GetFirstPlayerController();
-	if (!ensure(PlayerController != nullptr)) return;
-
-	FInputModeGameOnly InputMode;
-
-	PlayerController->SetInputMode(InputMode);
-
-	PlayerController->bShowMouseCursor = false;
+void UMainMenu::OpenMainMenu()
+{
+	if (!ensure(MenuSwitcher != nullptr)) return;
+	if (!ensure(MainMenu != nullptr)) return;
+	MenuSwitcher->SetActiveWidget(MainMenu);
 }
