@@ -12,10 +12,22 @@ bool UInGameMenu::Initialize()
 	if (!ensure(CancelButton != nullptr)) return false;
 	CancelButton->OnClicked.AddDynamic(this, &UInGameMenu::CancelPressed);
 
+	if (!ensure(QuitButton != nullptr)) return false;
+	QuitButton->OnClicked.AddDynamic(this, &UInGameMenu::QuitPressed);
+
 	return true;
 }
 
 void UInGameMenu::CancelPressed()
 {
 	TearDown();
+}
+
+void UInGameMenu::QuitPressed()
+{
+	if (MenuInterface != nullptr)
+	{
+		TearDown();
+		MenuInterface->LoadMainMenu();
+	}
 }

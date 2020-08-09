@@ -16,6 +16,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define PuzzlePlatforms_Source_PuzzlePlatforms_MenuSystem_InGameMenu_h_15_SPARSE_DATA
 #define PuzzlePlatforms_Source_PuzzlePlatforms_MenuSystem_InGameMenu_h_15_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execQuitPressed) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->QuitPressed(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execCancelPressed) \
 	{ \
 		P_FINISH; \
@@ -26,6 +34,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 
 #define PuzzlePlatforms_Source_PuzzlePlatforms_MenuSystem_InGameMenu_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execQuitPressed) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->QuitPressed(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execCancelPressed) \
 	{ \
@@ -81,7 +97,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UInGameMenu); \
 
 
 #define PuzzlePlatforms_Source_PuzzlePlatforms_MenuSystem_InGameMenu_h_15_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__CancelButton() { return STRUCT_OFFSET(UInGameMenu, CancelButton); }
+	FORCEINLINE static uint32 __PPO__CancelButton() { return STRUCT_OFFSET(UInGameMenu, CancelButton); } \
+	FORCEINLINE static uint32 __PPO__QuitButton() { return STRUCT_OFFSET(UInGameMenu, QuitButton); }
 
 
 #define PuzzlePlatforms_Source_PuzzlePlatforms_MenuSystem_InGameMenu_h_12_PROLOG

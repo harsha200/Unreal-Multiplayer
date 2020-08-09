@@ -32,7 +32,7 @@ void UMenuWidget::TearDown()
 	APlayerController* PlayerController = World->GetFirstPlayerController();
 	if (!ensure(PlayerController != nullptr)) return;
 
-	FInputModeGameOnly InputMode;
+	FInputModeGameOnly InputMode;  
 
 	PlayerController->SetInputMode(InputMode);
 

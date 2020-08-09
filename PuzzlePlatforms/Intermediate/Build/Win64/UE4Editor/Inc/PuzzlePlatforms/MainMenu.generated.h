@@ -32,6 +32,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_NATIVE_END; \
 	} \
  \
+	DECLARE_FUNCTION(execQuitPressed) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->QuitPressed(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execJoinServer) \
 	{ \
 		P_FINISH; \
@@ -64,6 +72,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
 		P_THIS->OpenJoinMenu(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execQuitPressed) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->QuitPressed(); \
 		P_NATIVE_END; \
 	} \
  \
@@ -131,6 +147,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMainMenu); \
 #define PuzzlePlatforms_Source_PuzzlePlatforms_MenuSystem_MainMenu_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__HostButton() { return STRUCT_OFFSET(UMainMenu, HostButton); } \
 	FORCEINLINE static uint32 __PPO__JoinButton() { return STRUCT_OFFSET(UMainMenu, JoinButton); } \
+	FORCEINLINE static uint32 __PPO__QuitButton() { return STRUCT_OFFSET(UMainMenu, QuitButton); } \
 	FORCEINLINE static uint32 __PPO__CancelJoinMenuButton() { return STRUCT_OFFSET(UMainMenu, CancelJoinMenuButton); } \
 	FORCEINLINE static uint32 __PPO__ConfirmJoinMenuButton() { return STRUCT_OFFSET(UMainMenu, ConfirmJoinMenuButton); } \
 	FORCEINLINE static uint32 __PPO__MenuSwitcher() { return STRUCT_OFFSET(UMainMenu, MenuSwitcher); } \

@@ -17,10 +17,13 @@ bool UMainMenu::Initialize()
 	if (!ensure(JoinButton != nullptr)) return false;
 	JoinButton->OnClicked.AddDynamic(this, &UMainMenu::OpenJoinMenu);
 
+	if (!ensure(QuitButton != nullptr)) return false;
+	QuitButton->OnClicked.AddDynamic(this, &UMainMenu::QuitPressed);
+
 	if (!ensure(CancelJoinMenuButton != nullptr)) return false;
 	CancelJoinMenuButton->OnClicked.AddDynamic(this, &UMainMenu::OpenMainMenu);
 
-	if (!ensure(CancelJoinMenuButton != nullptr)) return false;
+	if (!ensure(ConfirmJoinMenuButton != nullptr)) return false;
 	ConfirmJoinMenuButton->OnClicked.AddDynamic(this, &UMainMenu::JoinServer);
 
 	return true; 
@@ -30,8 +33,10 @@ void UMainMenu::HostServer()
 {
 	if (MenuInterface != nullptr)
 	{
+		UE_LOG(LogTemp, Warning, TEXT("Host Server"));
 		MenuInterface->Host();
 	}
+	
 }
 
 void UMainMenu::JoinServer()
@@ -43,6 +48,17 @@ void UMainMenu::JoinServer()
 		MenuInterface->Join(Address);
 	}
 
+}
+
+void UMainMenu::QuitPressed()
+{
+	UWorld* World = GetWorld();
+	if (!ensure(World != nullptr)) return;
+
+	APlayerController* PlayerController = World->GetFirstPlayerController();
+	if (!ensure(PlayerController != nullptr)) return;
+
+	PlayerController->ConsoleCommand("Quit");
 }
 
 void UMainMenu::OpenJoinMenu()

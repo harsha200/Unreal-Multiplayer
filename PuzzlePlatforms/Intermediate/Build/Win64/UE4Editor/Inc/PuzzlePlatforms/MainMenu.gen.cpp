@@ -21,6 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 	PUZZLEPLATFORMS_API UFunction* Z_Construct_UFunction_UMainMenu_JoinServer();
 	PUZZLEPLATFORMS_API UFunction* Z_Construct_UFunction_UMainMenu_OpenJoinMenu();
 	PUZZLEPLATFORMS_API UFunction* Z_Construct_UFunction_UMainMenu_OpenMainMenu();
+	PUZZLEPLATFORMS_API UFunction* Z_Construct_UFunction_UMainMenu_QuitPressed();
 	UMG_API UClass* Z_Construct_UClass_UEditableTextBox_NoRegister();
 	UMG_API UClass* Z_Construct_UClass_UWidget_NoRegister();
 	UMG_API UClass* Z_Construct_UClass_UWidgetSwitcher_NoRegister();
@@ -34,6 +35,7 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 			{ "JoinServer", &UMainMenu::execJoinServer },
 			{ "OpenJoinMenu", &UMainMenu::execOpenJoinMenu },
 			{ "OpenMainMenu", &UMainMenu::execOpenMainMenu },
+			{ "QuitPressed", &UMainMenu::execQuitPressed },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
@@ -125,6 +127,28 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_UMainMenu_QuitPressed_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UMainMenu_QuitPressed_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "MenuSystem/MainMenu.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UMainMenu_QuitPressed_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UMainMenu, nullptr, "QuitPressed", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UMainMenu_QuitPressed_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UMainMenu_QuitPressed_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_UMainMenu_QuitPressed()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UMainMenu_QuitPressed_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_UMainMenu_NoRegister()
 	{
 		return UMainMenu::StaticClass();
@@ -161,6 +185,10 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_CancelJoinMenuButton;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_QuitButton_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_QuitButton;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_JoinButton_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_JoinButton;
@@ -181,6 +209,7 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 		{ &Z_Construct_UFunction_UMainMenu_JoinServer, "JoinServer" }, // 3508861
 		{ &Z_Construct_UFunction_UMainMenu_OpenJoinMenu, "OpenJoinMenu" }, // 3281833125
 		{ &Z_Construct_UFunction_UMainMenu_OpenMainMenu, "OpenMainMenu" }, // 97782853
+		{ &Z_Construct_UFunction_UMainMenu_QuitPressed, "QuitPressed" }, // 853411116
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMainMenu_Statics::Class_MetaDataParams[] = {
@@ -238,6 +267,14 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UMainMenu_Statics::NewProp_CancelJoinMenuButton = { "CancelJoinMenuButton", nullptr, (EPropertyFlags)0x0040000000080008, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UMainMenu, CancelJoinMenuButton), Z_Construct_UClass_UButton_NoRegister, METADATA_PARAMS(Z_Construct_UClass_UMainMenu_Statics::NewProp_CancelJoinMenuButton_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UMainMenu_Statics::NewProp_CancelJoinMenuButton_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMainMenu_Statics::NewProp_QuitButton_MetaData[] = {
+		{ "BindWidget", "" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "MenuSystem/MainMenu.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UMainMenu_Statics::NewProp_QuitButton = { "QuitButton", nullptr, (EPropertyFlags)0x0040000000080008, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UMainMenu, QuitButton), Z_Construct_UClass_UButton_NoRegister, METADATA_PARAMS(Z_Construct_UClass_UMainMenu_Statics::NewProp_QuitButton_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UMainMenu_Statics::NewProp_QuitButton_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMainMenu_Statics::NewProp_JoinButton_MetaData[] = {
 		{ "BindWidget", "" },
 		{ "EditInline", "true" },
@@ -260,6 +297,7 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMainMenu_Statics::NewProp_MenuSwitcher,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMainMenu_Statics::NewProp_ConfirmJoinMenuButton,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMainMenu_Statics::NewProp_CancelJoinMenuButton,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMainMenu_Statics::NewProp_QuitButton,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMainMenu_Statics::NewProp_JoinButton,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UMainMenu_Statics::NewProp_HostButton,
 	};
@@ -290,7 +328,7 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UMainMenu, 3376471733);
+	IMPLEMENT_CLASS(UMainMenu, 2511314068);
 	template<> PUZZLEPLATFORMS_API UClass* StaticClass<UMainMenu>()
 	{
 		return UMainMenu::StaticClass();
