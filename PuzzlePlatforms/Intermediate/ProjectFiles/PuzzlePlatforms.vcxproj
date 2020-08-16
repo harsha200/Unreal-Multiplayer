@@ -265,6 +265,8 @@
     <NMakeOutput>..\..\Binaries\Win64\PuzzlePlatforms-Win64-Shipping.exe</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\PuzzlePlatforms\Swat_Guy\Main.cpp" />
+    <ClInclude Include="..\..\Source\PuzzlePlatforms\Swat_Guy\Main.h" />
     <None Include="..\..\PuzzlePlatforms.uproject" />
     <None Include="..\..\Source\PuzzlePlatforms.Target.cs" />
     <None Include="..\..\Source\PuzzlePlatformsEditor.Target.cs" />
