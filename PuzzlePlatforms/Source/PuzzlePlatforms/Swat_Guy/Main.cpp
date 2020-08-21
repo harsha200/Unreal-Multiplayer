@@ -38,7 +38,13 @@ AMain::AMain()
 	BaseTurnRate = 65.f;
 	BaseLookUpRate = 65.f;
 
-	Option = false;
+	MaxArmorStrength = 1.f;
+
+	MaxHealthStrength = 1.f;
+
+	ArmorStrength = .5f;
+
+	HealthStrength = .5f;
 
 	//Don't Rotate when the controller rotates.
 	//Let that just affect the camera.

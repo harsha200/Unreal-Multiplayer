@@ -19,6 +19,8 @@ public:
 
 	void Setup();
 
+	void SetupWithGameMode();
+
 	void TearDown();
 
 protected:

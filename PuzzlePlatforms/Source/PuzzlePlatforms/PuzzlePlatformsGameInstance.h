@@ -26,8 +26,11 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void InGameLoadMenu();
 
-	UFUNCTION(Exec)
+	UFUNCTION(BlueprintCallable)
 	void Host() override;
+
+	UFUNCTION(BlueprintCallable)
+	void LoadHUD();
 
 	UFUNCTION(Exec)
 	void Join(const FString& Address) override;
@@ -37,6 +40,8 @@ public:
 private:
 	TSubclassOf<class UUserWidget> MenuClass;
 	TSubclassOf<class UUserWidget> InGameMenuClass;
-	
+
+	TSubclassOf<class UUserWidget> MainHUD;
+
 	class UMainMenu* Menu;
 };

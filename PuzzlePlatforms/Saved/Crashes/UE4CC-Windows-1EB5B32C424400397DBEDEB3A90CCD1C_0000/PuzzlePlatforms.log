@@ -1,0 +1,1036 @@
+﻿Log file open, 08/20/20 20:07:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PuzzlePlatforms
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.124292
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Engine.ini]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Engine.ini]
+[2020.08.20-19.07.53:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Engine.ini]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Engine.ini]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.20-19.07.53:498][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Engine.ini]
+[2020.08.20-19.07.53:498][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Engine.ini]
+[2020.08.20-19.07.53:501][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.20-19.07.53:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.20-19.07.53:502][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.20-19.07.53:502][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.20-19.07.53:502][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.20-19.07.53:506][  0]LogHAL: Display: Platform has ~ 8 GB [8449904640 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.20-19.07.53:506][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.20-19.07.53:506][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.20-19.07.53:506][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.20-19.07.53:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Scalability.ini]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.20-19.07.53:508][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Config/Windows/Engine.ini]
+[2020.08.20-19.07.53:508][  0]LogInit: Computer: DESKTOP-UNEK68K
+[2020.08.20-19.07.53:508][  0]LogInit: User: harsh
+[2020.08.20-19.07.53:508][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.20-19.07.53:508][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.20-19.07.53:508][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.08.20-19.07.53:508][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.20-19.07.53:508][  0]LogMemory: Process Physical Memory: 105.62 MB used, 105.62 MB peak
+[2020.08.20-19.07.53:508][  0]LogMemory: Process Virtual Memory: 99.98 MB used, 99.98 MB peak
+[2020.08.20-19.07.53:508][  0]LogMemory: Physical Memory: 6324.86 MB used,  1733.60 MB free, 8058.46 MB total
+[2020.08.20-19.07.53:508][  0]LogMemory: Virtual Memory: 5122.20 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.08.20-19.07.53:513][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.20-19.07.53:531][  0]LogInit: Using OS detected language (en-US).
+[2020.08.20-19.07.53:531][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.20-19.07.53:532][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.20-19.07.53:744][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.20-19.07.53:775][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.20-19.07.53:775][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.20-19.07.53:964][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.20-19.07.53:964][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.20-19.07.53:964][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.20-19.07.53:964][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.20-19.07.54:054][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.08.20-19.07.54:054][  0]LogD3D11RHI:       4019/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.08.20-19.07.54:066][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.08.20-19.07.54:066][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.08.20-19.07.54:068][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.20-19.07.54:068][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.20-19.07.54:068][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.20-19.07.54:129][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.20-19.07.54:129][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.08.20-19.07.54:129][  0]LogWindows: EnumDisplayDevices:
+[2020.08.20-19.07.54:129][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.08.20-19.07.54:130][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.08.20-19.07.54:130][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.08.20-19.07.54:130][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.08.20-19.07.54:131][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.08.20-19.07.54:131][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.08.20-19.07.54:131][  0]LogD3D11RHI:   Driver Version: 442.23 (internal:26.21.14.4223, unified:442.23)
+[2020.08.20-19.07.54:131][  0]LogD3D11RHI:      Driver Date: 1-31-2020
+[2020.08.20-19.07.54:131][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2020.08.20-19.07.54:178][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.20-19.07.54:178][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.20-19.07.54:236][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.08.20-19.07.54:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.20-19.07.54:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.20-19.07.54:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.20-19.07.54:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.20-19.07.54:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.20-19.07.54:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.20-19.07.54:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.20-19.07.54:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.20-19.07.54:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.20-19.07.54:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.20-19.07.54:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.20-19.07.54:923][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.20-19.07.54:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.20-19.07.54:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.20-19.07.54:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.20-19.07.54:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.20-19.07.54:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.20-19.07.54:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.20-19.07.54:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.20-19.07.55:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.20-19.07.55:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.20-19.07.55:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.20-19.07.55:027][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.20-19.07.55:031][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.20-19.07.55:060][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Intermediate/Shaders/WorkingDirectory/137896/).
+[2020.08.20-19.07.55:061][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/harsh.DESKTOP-UNEK68K/AppData/Local/Temp/UnrealShaderWorkingDir/1D5A0E704E41C0866B62BEA6550825B8/'.
+[2020.08.20-19.07.55:061][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.20-19.07.55:061][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.20-19.07.55:061][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.20-19.07.55:929][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.20-19.07.56:014][  0]LogDerivedDataCache: Loaded boot cache 0.09s 86MB C:/Users/harsh.DESKTOP-UNEK68K/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.20-19.07.56:015][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/harsh.DESKTOP-UNEK68K/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.08.20-19.07.56:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.20-19.07.56:015][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.20-19.07.56:015][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.20-19.07.56:015][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.20-19.07.56:027][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.20-19.07.56:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.20-19.07.56:027][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.20-19.07.56:028][  0]LogDerivedDataCache: Using Local data cache path C:/Users/harsh.DESKTOP-UNEK68K/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.20-19.07.56:028][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.20-19.07.56:028][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.20-19.07.56:057][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.20-19.07.56:060][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.20-19.07.56:060][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.20-19.07.56:120][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.08.20-19.07.56:495][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.20-19.07.56:678][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.20-19.07.56:678][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.20-19.07.56:678][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.20-19.07.56:678][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.20-19.07.56:678][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.20-19.07.56:693][  0]LogNetVersion: PuzzlePlatforms 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2226377169)
+[2020.08.20-19.07.57:943][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.048982 seconds
+[2020.08.20-19.07.57:953][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.08.20-19.07.57:953][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.08.20-19.07.57:953][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.20-19.07.58:433][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.20-19.07.58:437][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.20-19.07.58:520][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Game/HUD/WBP_MainHUD' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.08.20-19.07.58:520][  0]LogLinker: Warning: Failed to load 'Game/HUD/WBP_MainHUD': Can't find file.
+[2020.08.20-19.07.58:521][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Game/HUD/WBP_MainHUD' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.08.20-19.07.58:521][  0]LogLinker: Warning: Failed to load 'Game/HUD/WBP_MainHUD': Can't find file.
+[2020.08.20-19.07.58:521][  0]LogUObjectGlobals: Warning: Failed to find object 'Class Game/HUD/WBP_MainHUD.WBP_MainHUD_C'
+[2020.08.20-19.07.58:521][  0]Error: CDO Constructor (PuzzlePlatformsGameInstance): Failed to find Game/HUD/WBP_MainHUD.WBP_MainHUD_C
+
+[2020.08.20-19.07.58:565][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.044 s
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: 
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: Ensure condition failed: MainHUDBPClass.Class != nullptr [File:C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Source\PuzzlePlatforms\PuzzlePlatformsGameInstance.cpp] [Line: 27]
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: 
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: Stack: 
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd43cf8b78 UE4Editor-PuzzlePlatforms-3594.dll!<lambda_f519e3b0702701967ca9dd125e0077a2>::operator()() [c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\puzzleplatformsgameinstance.cpp:27]
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd43cecc69 UE4Editor-PuzzlePlatforms-3594.dll!UPuzzlePlatformsGameInstance::UPuzzlePlatformsGameInstance() [c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\puzzleplatformsgameinstance.cpp:27]
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd92c4191a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd92ed1daf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd92eb116f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd92de5785 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd91cec487 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffd91d0aa1b UE4Editor-Core.dll!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdcf79af37 UE4Editor-Projects.dll!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdcf79b229 UE4Editor-Projects.dll!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ff68658f671 UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ff68659204b UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ff68658c17c UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ff68658c4ca UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ff68659ceae UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ff68659fcbe UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffddcbd7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdde42ce51 ntdll.dll!UnknownFunction []
+[2020.08.20-19.07.58:565][  0]LogOutputDevice: Error: 
+[2020.08.20-19.07.59:067][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2020.08.20-19.08.00:089][  0]LogStats:                    SendNewReport -  1.021 s
+[2020.08.20-19.08.00:089][  0]LogStats:             FDebug::EnsureFailed -  1.568 s
+[2020.08.20-19.08.00:346][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2020.08.20-19.08.00:346][  0]LogUObjectBase: Warning: Error: CDO Constructor (PuzzlePlatformsGameInstance): Failed to find Game/HUD/WBP_MainHUD.WBP_MainHUD_C
+
+[2020.08.20-19.08.50:091][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.20-19.08.50:093][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.20-19.08.50:137][  0]SourceControl: Source control is disabled
+[2020.08.20-19.08.50:137][  0]SourceControl: Source control is disabled
+[2020.08.20-19.08.50:139][  0]SourceControl: Source control is disabled
+[2020.08.20-19.08.50:140][  0]SourceControl: Source control is disabled
+[2020.08.20-19.08.50:142][  0]SourceControl: Source control is disabled
+[2020.08.20-19.08.50:256][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.20-19.08.50:269][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.20-19.08.50:269][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.20-19.08.50:368][  0]LogOcInput: OculusInput pre-init called
+[2020.08.20-19.08.50:377][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.20-19.08.50:377][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.20-19.08.50:455][  0]LogEngine: Initializing Engine...
+[2020.08.20-19.08.50:456][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.20-19.08.50:457][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.20-19.08.50:886][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.20-19.08.50:893][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.20-19.08.51:296][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.20-19.08.51:296][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.20-19.08.51:296][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.20-19.08.51:296][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.20-19.08.51:296][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.20-19.08.51:296][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.20-19.08.51:296][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.20-19.08.51:296][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.20-19.08.51:297][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.20-19.08.51:297][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.20-19.08.51:335][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.20-19.08.51:335][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.20-19.08.51:335][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.08.20-19.08.51:336][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.20-19.08.51:336][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.20-19.08.51:336][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.20-19.08.51:336][  0]LogAudioMixer: Display: Channel Order:
+[2020.08.20-19.08.51:336][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.20-19.08.51:336][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.20-19.08.51:564][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.20-19.08.51:567][  0]LogInit: FAudioDevice initialized.
+[2020.08.20-19.08.51:568][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.20-19.08.51:686][  0]LogDerivedDataCache: Saved boot cache 0.12s 86MB C:/Users/harsh.DESKTOP-UNEK68K/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.20-19.08.51:691][  0]LogInit: Texture streaming: Enabled
+[2020.08.20-19.08.51:705][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.20-19.08.51:705][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.20-19.08.51:717][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.20-19.08.51:795][  0]LogInit: Transaction tracking system initialized
+[2020.08.20-19.08.51:808][  0]BlueprintLog: New page: Editor Load
+[2020.08.20-19.08.51:848][  0]LocalizationService: Localization service is disabled
+[2020.08.20-19.08.52:804][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Game/HUD/WBP_MainHUD' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.08.20-19.08.52:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Content/' took 0.02s
+[2020.08.20-19.08.52:812][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.20-19.08.52:812][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.20-19.08.53:607][  0]SourceControl: Source control is disabled
+[2020.08.20-19.08.53:607][  0]Cmd: MAP LOAD FILE="../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Content/MenuSystem/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.20-19.08.53:610][  0]LightingResults: New page: Lighting Build
+[2020.08.20-19.08.53:611][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-19.08.53:611][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-19.08.53:611][  0]MapCheck: New page: Map Check
+[2020.08.20-19.08.53:611][  0]LightingResults: New page: Lighting Build
+[2020.08.20-19.08.53:639][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.08.20-19.08.53:647][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.20-19.08.53:647][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.20-19.08.53:677][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.08.20-19.08.53:677][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.20-19.08.53:678][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.227ms to complete.
+[2020.08.20-19.08.53:678][  0]LogFileHelpers: Loading map 'MainMenu' took 0.071
+[2020.08.20-19.08.53:882][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-19.08.53:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-19.08.53:899][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-19.08.53:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-19.08.53:920][  0]LogCollectionManager: Loaded 0 collections in 0.001267 seconds
+[2020.08.20-19.08.53:952][  0]LogFileCache: Scanning file cache for directory 'C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/Collections/' took 0.00s
+[2020.08.20-19.08.53:952][  0]LogFileCache: Scanning file cache for directory 'C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Content/Developers/harsh/Collections/' took 0.00s
+[2020.08.20-19.08.53:952][  0]LogFileCache: Scanning file cache for directory 'C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Content/Collections/' took 0.00s
+[2020.08.20-19.08.53:952][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 3031 classes and 724 folders.
+[2020.08.20-19.08.53:963][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.08.20-19.08.54:162][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.20-19.08.54:353][  0]LogSlate: Warning: The tab "LiveLink" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2020.08.20-19.08.54:407][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.20-19.08.54:410][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.20-19.08.54:416][  0]LogSlate: Took 0.001027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.20-19.08.54:523][  0]LogRenderer: Reallocating scene render targets to support 836x324 Format 10 NumSamples 1 (Frame:1).
+[2020.08.20-19.08.55:122][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.20-19.08.55:122][  0]LogLoad: (Engine Initialization) Total time: 63.54 seconds
+[2020.08.20-19.08.55:122][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.20-19.08.55:196][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.20-19.08.55:320][  0]LogRenderer: Reallocating scene render targets to support 836x340 Format 10 NumSamples 1 (Frame:2).
+[2020.08.20-19.08.55:321][  0]LogSlate: Took 0.001404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.20-19.08.55:368][  1]LogAssetRegistry: Asset discovery search completed in 59.2489 seconds
+[2020.08.20-19.08.55:377][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2020.08.20-19.08.56:262][ 35]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.20-19.08.59:077][153]Candidate modules for hot reload:
+[2020.08.20-19.08.59:077][153]  PuzzlePlatforms
+[2020.08.20-19.08.59:077][153]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PuzzlePlatforms,771 Win64 Development -TargetType=Editor -Project="C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject" "C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject"  -IgnoreJunk]
+[2020.08.20-19.08.59:094][153]Warning: Starting HotReload took  0.1s.
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: New page: Compilation - Aug 20, 2020, 9:09:41 PM
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\RLLiveLink\RLLiveLink.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer).
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: Parsing headers for PuzzlePlatformsEditor
+[2020.08.20-19.09.41:725][361]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject" "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\PuzzlePlatformsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: Reflection code generated for PuzzlePlatformsEditor in 17.6297963 seconds
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: Building PuzzlePlatformsEditor...
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.14393.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: Building 3 actions with 4 processes...
+[2020.08.20-19.09.41:725][361]CompilerResultsLog:   [1/3] UE4Editor-PuzzlePlatforms-0771.lib
+[2020.08.20-19.09.41:725][361]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-0771.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-0771.exp
+[2020.08.20-19.09.41:725][361]CompilerResultsLog:   [2/3] UE4Editor-PuzzlePlatforms-0771.dll
+[2020.08.20-19.09.41:725][361]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-0771.suppressed.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-0771.suppressed.exp
+[2020.08.20-19.09.41:725][361]CompilerResultsLog:   [3/3] PuzzlePlatformsEditor.target
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: Total time in Parallel executor: 21.06 seconds
+[2020.08.20-19.09.41:725][361]CompilerResultsLog: Total execution time: 42.29 seconds
+[2020.08.20-19.09.41:725][361]LogMainFrame: MainFrame: Module compiling took 42.663 seconds
+[2020.08.20-19.09.41:753][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.08.20-19.09.41:771][361]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 3031 classes and 724 folders.
+[2020.08.20-19.09.41:772][361]Display: HotReload took 42.7s.
+[2020.08.20-19.09.48:934][743]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.20-19.09.48:952][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MenuSystem/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.08.20-19.09.48:952][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.20-19.09.48:952][743]PIE: New page: PIE session: MainMenu (Aug 20, 2020, 9:09:48 PM)
+[2020.08.20-19.09.48:954][743]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.20-19.09.48:955][743]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.20-19.09.48:956][743]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Game/HUD/WBP_MainHUD' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.08.20-19.09.48:956][743]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Game/HUD/WBP_MainHUD' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.08.20-19.09.48:956][743]Error: CDO Constructor (PuzzlePlatformsGameInstance): Failed to find Game/HUD/WBP_MainHUD.WBP_MainHUD_C
+
+[2020.08.20-19.09.48:956][743]LogPlayLevel: Creating play world package: /Game/MenuSystem/UEDPIE_0_MainMenu
+[2020.08.20-19.09.48:957][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001365s)
+[2020.08.20-19.09.48:959][743]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.20-19.09.48:960][743]LogPlayLevel: PIE: World Init took: (0.002201s)
+[2020.08.20-19.09.48:960][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuSystem/MainMenu.MainMenu to /Game/MenuSystem/UEDPIE_0_MainMenu.MainMenu (0.003890s)
+[2020.08.20-19.09.48:984][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.08.20-19.09.48:985][743]LogTemp: Warning: Found class WBP_MainMenu_C
+[2020.08.20-19.09.48:986][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.20-19.09.48:986][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.20-19.09.48:986][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.20-19.09.48:986][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.20-19.09.48:986][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.20-19.09.48:986][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.20-19.09.48:986][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.20-19.09.48:986][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.20-19.09.48:987][743]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.20-19.09.48:987][743]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.20-19.09.49:004][743]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.20-19.09.49:005][743]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.20-19.09.49:005][743]LogAudioMixer: Display: Is Default: Yes
+[2020.08.20-19.09.49:005][743]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.20-19.09.49:005][743]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.20-19.09.49:005][743]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.20-19.09.49:005][743]LogAudioMixer: Display: Channel Order:
+[2020.08.20-19.09.49:005][743]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.20-19.09.49:005][743]LogAudioMixer: Display: 1: FrontRight
+[2020.08.20-19.09.49:114][743]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.20-19.09.49:116][743]LogInit: FAudioDevice initialized.
+[2020.08.20-19.09.49:157][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-19.09.49:159][743]LogLoad: Game class is 'PuzzlePlatformsGameMode'
+[2020.08.20-19.09.49:160][743]LogWorld: Bringing World /Game/MenuSystem/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.20-20.09.49
+[2020.08.20-19.09.49:161][743]LogWorld: Bringing up level for play took: 0.000577
+[2020.08.20-19.09.49:161][743]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.08.20-19.09.49:193][743]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.08.20-19.09.49:200][743]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.08.20-19.09.49:203][743]PIE: Play in editor start time for /Game/MenuSystem/UEDPIE_0_MainMenu 0.839
+[2020.08.20-19.09.49:203][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MenuSystem/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.08.20-19.09.49:236][744]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2020.08.20-19.09.52:313][802]LogTemp: Warning: Host Server
+[2020.08.20-19.09.52:313][802]LogGameMode: ProcessServerTravel: /Game/industrial_area/Maps/industrial_area_demo?listen
+[2020.08.20-19.09.52:338][802]LogEngine: Server switch level: /Game/industrial_area/Maps/industrial_area_demo?listen
+[2020.08.20-19.09.52:338][802]LogNet: Browse: /Game/industrial_area/Maps/industrial_area_demo?listen
+[2020.08.20-19.09.52:338][802]LogLoad: LoadMap: /Game/industrial_area/Maps/industrial_area_demo?listen
+[2020.08.20-19.09.52:338][802]LogWorld: BeginTearingDown for /Game/MenuSystem/UEDPIE_0_MainMenu
+[2020.08.20-19.09.52:339][802]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-19.09.52:339][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-19.09.52:339][802]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.20-19.09.52:368][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.08.20-19.09.56:068][802]LogAIModule: Creating AISystem for world industrial_area_demo
+[2020.08.20-19.09.56:069][802]LogLoad: Game class is 'PuzzlePlatformsGameMode'
+[2020.08.20-19.09.56:077][802]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.08.20-19.09.56:078][802]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.08.20-19.09.56:081][802]LogInit: WinSock: I am DESKTOP-UNEK68K (192.168.1.7:0)
+[2020.08.20-19.09.56:081][802]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.08.20-19.09.56:081][802]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.20-19.09.56:081][802]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2020.08.20-19.09.56:778][802]LogWorld: Bringing World /Game/industrial_area/maps/UEDPIE_0_industrial_area_demo.industrial_area_demo up for play (max tick rate 60) at 2020.08.20-20.09.56
+[2020.08.20-19.09.56:801][802]LogWorld: Bringing up level for play took: 0.719121
+[2020.08.20-19.09.56:803][802]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.20-19.09.56:821][802]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+industrial_area_demo_C.ExecuteUbergraph_industrial_area_demo
+industrial_area_demo_C.ReceiveBeginPlay
+
+[2020.08.20-19.09.57:598][802]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.777 s
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: 
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: Ensure condition failed: MainHUD != nullptr [File:C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Source\PuzzlePlatforms\PuzzlePlatformsGameInstance.cpp] [Line: 83]
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: 
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: Stack: 
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd43cf8b08 UE4Editor-PuzzlePlatforms-3594.dll!<lambda_f287b092a7f81c7a3d87816f395cd6a0>::operator()() [c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\puzzleplatformsgameinstance.cpp:83]
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd43cedb02 UE4Editor-PuzzlePlatforms-3594.dll!UPuzzlePlatformsGameInstance::LoadHUD() [c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\puzzleplatformsgameinstance.cpp:83]
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd92c642e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd92e8a5ff UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd92eaec31 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd92eb0ca2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd92e7ed8b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd92eb09bf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd92eb0ca2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd92eb0614 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd92c642e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.09.57:598][802]LogOutputDevice: Error: [Callstack] 0x00007ffd92eb0118 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd5ef67f18 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd5ef309df UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd5ef3c7dd UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd6023d532 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd5f64df81 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd601e866e UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd6012ac81 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd600e9911 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd6014202e UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd62e3a847 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffd6369e3b6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ff686577f62 UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ff68658c3ec UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ff68658c4ca UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ff68659ceae UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ff68659fcbe UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffddcbd7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: [Callstack] 0x00007ffdde42ce51 ntdll.dll!UnknownFunction []
+[2020.08.20-19.09.57:599][802]LogOutputDevice: Error: 
+[2020.08.20-19.09.57:621][802]LogStats:                SubmitErrorReport -  0.000 s
+[2020.08.20-19.09.58:835][802]LogStats:                    SendNewReport -  1.213 s
+[2020.08.20-19.09.58:835][802]LogStats:             FDebug::EnsureFailed -  2.014 s
+[2020.08.20-19.09.58:835][802]LogBlueprintUserMessages: [industrial_area_demo_C_6] Server: Hello
+[2020.08.20-19.09.58:837][802]LogLoad: Took 6.499269 seconds to LoadMap(/Game/industrial_area/Maps/industrial_area_demo)
+[2020.08.20-19.09.58:909][802]LogTemp: Resetting audio stream to device id 
+[2020.08.20-19.09.58:996][802]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.20-19.09.58:996][802]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.20-19.09.58:996][802]LogAudioMixer: Display: Is Default: Yes
+[2020.08.20-19.09.58:996][802]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.20-19.09.58:996][802]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.20-19.09.58:996][802]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.20-19.09.58:996][802]LogAudioMixer: Display: Channel Order:
+[2020.08.20-19.09.58:996][802]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.20-19.09.58:996][802]LogAudioMixer: Display: 1: FrontRight
+[2020.08.20-19.09.59:335][802]LogTemp: Resetting audio stream to device id 
+[2020.08.20-19.09.59:375][802]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.20-19.09.59:375][802]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.20-19.09.59:375][802]LogAudioMixer: Display: Is Default: Yes
+[2020.08.20-19.09.59:375][802]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.20-19.09.59:375][802]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.20-19.09.59:375][802]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.20-19.09.59:375][802]LogAudioMixer: Display: Channel Order:
+[2020.08.20-19.09.59:375][802]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.20-19.09.59:375][802]LogAudioMixer: Display: 1: FrontRight
+[2020.08.20-19.09.59:685][803]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 7.36, Realtime: 0.85. IpNetDriver_0
+[2020.08.20-19.10.05:067][804]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.38, Realtime: 5.38. IpNetDriver_0
+[2020.08.20-19.10.16:208][270]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.20-19.10.16:208][270]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.20-19.10.16:208][270]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MenuSystem/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.08.20-19.10.16:212][270]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.08.20-19.10.16:214][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-19.10.16:215][270]LogWorld: BeginTearingDown for /Game/industrial_area/maps/UEDPIE_0_industrial_area_demo
+[2020.08.20-19.10.16:236][270]LogSlate: Window 'PuzzlePlatforms Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.20-19.10.16:242][270]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.20-19.10.16:246][270]LogWorld: UWorld::CleanupWorld for industrial_area_demo, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-19.10.16:270][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-19.10.16:281][270]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.08.20-19.10.16:281][270]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.08.20-19.10.16:282][270]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.08.20-19.10.16:283][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.20-19.10.16:284][270]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MenuSystem/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.08.20-19.10.16:296][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-19.10.16:326][270]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.20-19.10.16:412][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.08.20-19.10.16:432][271]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.08.20-19.10.28:068][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.08.20-19.10.31:340][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.08.20-19.10.32:519][ 42]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.20-19.10.32:693][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.08.20-19.10.32:739][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.08.20-19.10.32:767][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.08.20-19.11.05:089][882]Candidate modules for hot reload:
+[2020.08.20-19.11.05:089][882]  PuzzlePlatforms
+[2020.08.20-19.11.05:089][882]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PuzzlePlatforms,96 Win64 Development -TargetType=Editor -Project="C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject" "C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject"  -IgnoreJunk]
+[2020.08.20-19.11.05:111][882]Warning: Starting HotReload took  0.1s.
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: New page: Compilation - Aug 20, 2020, 9:12:34 PM
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\RLLiveLink\RLLiveLink.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer).
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: Parsing headers for PuzzlePlatformsEditor
+[2020.08.20-19.12.34:303][847]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject" "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\PuzzlePlatformsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: Reflection code generated for PuzzlePlatformsEditor in 19.1429975 seconds
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: Building PuzzlePlatformsEditor...
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.14393.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.08.20-19.12.34:303][847]CompilerResultsLog:   [1/4] PuzzlePlatformsGameInstance.cpp
+[2020.08.20-19.12.34:303][847]CompilerResultsLog:   [2/4] UE4Editor-PuzzlePlatforms-0096.lib
+[2020.08.20-19.12.34:303][847]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-0096.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-0096.exp
+[2020.08.20-19.12.34:303][847]CompilerResultsLog:   [3/4] UE4Editor-PuzzlePlatforms-0096.dll
+[2020.08.20-19.12.34:303][847]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-0096.suppressed.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-0096.suppressed.exp
+[2020.08.20-19.12.34:303][847]CompilerResultsLog:   [4/4] PuzzlePlatformsEditor.target
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: Total time in Parallel executor: 65.38 seconds
+[2020.08.20-19.12.34:303][847]CompilerResultsLog: Total execution time: 88.83 seconds
+[2020.08.20-19.12.34:303][847]LogMainFrame: MainFrame: Module compiling took 89.227 seconds
+[2020.08.20-19.12.34:343][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.08.20-19.12.34:363][847]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 3031 classes and 724 folders.
+[2020.08.20-19.12.34:363][847]Display: HotReload took 89.4s.
+[2020.08.20-19.12.42:816][314]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.20-19.12.42:839][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MenuSystem/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.08.20-19.12.42:840][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.20-19.12.42:840][314]PIE: New page: PIE session: MainMenu (Aug 20, 2020, 9:12:42 PM)
+[2020.08.20-19.12.42:841][314]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Game/HUD/WBP_MainHUD' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.08.20-19.12.42:841][314]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Game/HUD/WBP_MainHUD' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.08.20-19.12.42:841][314]Error: CDO Constructor (PuzzlePlatformsGameInstance): Failed to find Game/HUD/WBP_MainHUD.WBP_MainHUD_C
+
+[2020.08.20-19.12.42:841][314]LogPlayLevel: Creating play world package: /Game/MenuSystem/UEDPIE_0_MainMenu
+[2020.08.20-19.12.42:845][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004139s)
+[2020.08.20-19.12.42:846][314]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.20-19.12.42:848][314]LogPlayLevel: PIE: World Init took: (0.002490s)
+[2020.08.20-19.12.42:848][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuSystem/MainMenu.MainMenu to /Game/MenuSystem/UEDPIE_0_MainMenu.MainMenu (0.006813s)
+[2020.08.20-19.12.42:877][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.08.20-19.12.42:878][314]LogTemp: Warning: Found class WBP_MainMenu_C
+[2020.08.20-19.12.42:879][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.20-19.12.42:879][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.20-19.12.42:879][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.20-19.12.42:879][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.20-19.12.42:879][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.20-19.12.42:879][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.20-19.12.42:879][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.20-19.12.42:879][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.20-19.12.42:880][314]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.20-19.12.42:880][314]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.20-19.12.42:902][314]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.20-19.12.42:902][314]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.08.20-19.12.42:902][314]LogAudioMixer: Display: Is Default: Yes
+[2020.08.20-19.12.42:902][314]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.20-19.12.42:902][314]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.20-19.12.42:902][314]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.20-19.12.42:902][314]LogAudioMixer: Display: Channel Order:
+[2020.08.20-19.12.42:902][314]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.20-19.12.42:902][314]LogAudioMixer: Display: 1: FrontRight
+[2020.08.20-19.12.43:028][314]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.08.20-19.12.43:037][314]LogInit: FAudioDevice initialized.
+[2020.08.20-19.12.43:102][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-19.12.43:103][314]LogLoad: Game class is 'PuzzlePlatformsGameMode'
+[2020.08.20-19.12.43:104][314]LogWorld: Bringing World /Game/MenuSystem/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.08.20-20.12.43
+[2020.08.20-19.12.43:105][314]LogWorld: Bringing up level for play took: 0.000520
+[2020.08.20-19.12.43:107][314]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.08.20-19.12.43:126][314]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.08.20-19.12.43:128][314]PIE: Play in editor start time for /Game/MenuSystem/UEDPIE_0_MainMenu 0.764
+[2020.08.20-19.12.43:129][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MenuSystem/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.08.20-19.12.44:431][372]LogTemp: Warning: Host Server
+[2020.08.20-19.12.44:431][372]LogGameMode: ProcessServerTravel: /Game/industrial_area/Maps/industrial_area_demo?listen
+[2020.08.20-19.12.44:461][372]LogEngine: Server switch level: /Game/industrial_area/Maps/industrial_area_demo?listen
+[2020.08.20-19.12.44:461][372]LogNet: Browse: /Game/industrial_area/Maps/industrial_area_demo?listen
+[2020.08.20-19.12.44:461][372]LogLoad: LoadMap: /Game/industrial_area/Maps/industrial_area_demo?listen
+[2020.08.20-19.12.44:461][372]LogWorld: BeginTearingDown for /Game/MenuSystem/UEDPIE_0_MainMenu
+[2020.08.20-19.12.44:462][372]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-19.12.44:462][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-19.12.44:462][372]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.20-19.12.44:494][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.08.20-19.12.45:521][372]LogAIModule: Creating AISystem for world industrial_area_demo
+[2020.08.20-19.12.45:522][372]LogLoad: Game class is 'PuzzlePlatformsGameMode'
+[2020.08.20-19.12.45:524][372]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.08.20-19.12.45:524][372]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.08.20-19.12.45:525][372]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.08.20-19.12.45:526][372]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.08.20-19.12.45:526][372]LogNet: GameNetDriver IpNetDriver_1 IpNetDriver listening on port 7777
+[2020.08.20-19.12.46:188][372]LogWorld: Bringing World /Game/industrial_area/maps/UEDPIE_0_industrial_area_demo.industrial_area_demo up for play (max tick rate 60) at 2020.08.20-20.12.46
+[2020.08.20-19.12.46:192][372]LogWorld: Bringing up level for play took: 0.666332
+[2020.08.20-19.12.46:193][372]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.08.20-19.12.46:199][372]LogBlueprintUserMessages: [industrial_area_demo_C_6] Server: Hello
+[2020.08.20-19.12.46:200][372]LogLoad: Took 1.739099 seconds to LoadMap(/Game/industrial_area/Maps/industrial_area_demo)
+[2020.08.20-19.12.49:399][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.20-19.12.49:399][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.20-19.12.49:399][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MenuSystem/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.08.20-19.12.49:400][440]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.08.20-19.12.49:400][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.20-19.12.49:400][440]LogWorld: BeginTearingDown for /Game/industrial_area/maps/UEDPIE_0_industrial_area_demo
+[2020.08.20-19.12.49:419][440]LogSlate: Window 'PuzzlePlatforms Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.20-19.12.49:442][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.20-19.12.49:444][440]LogWorld: UWorld::CleanupWorld for industrial_area_demo, bSessionEnded=true, bCleanupResources=true
+[2020.08.20-19.12.49:466][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-19.12.49:478][440]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.08.20-19.12.49:478][440]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.08.20-19.12.49:478][440]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.08.20-19.12.49:482][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.20-19.12.49:483][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MenuSystem/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MenuSystem/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.08.20-19.12.49:492][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.20-19.12.49:549][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.20-19.12.49:753][440]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.08.20-19.12.49:774][441]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.08.20-19.13.01:280][ 76]LogMetaData: Removing '/Game/MenuSystem/WBP_MainHUD.SKEL_WBP_MainHUD_C' ref from Metadata '/Game/WBP_MainHUD.PackageMetaData'
+[2020.08.20-19.13.01:280][ 76]LogMetaData: Removing '/Game/MenuSystem/WBP_MainHUD.WBP_MainHUD_C' ref from Metadata '/Game/WBP_MainHUD.PackageMetaData'
+[2020.08.20-19.13.01:280][ 76]LogMetaData: Removing '/Game/MenuSystem/WBP_MainHUD.SKEL_WBP_MainHUD_C:PreConstruct' ref from Metadata '/Game/WBP_MainHUD.PackageMetaData'
+[2020.08.20-19.13.01:280][ 76]LogMetaData: Removing '/Game/MenuSystem/WBP_MainHUD.SKEL_WBP_MainHUD_C:Construct' ref from Metadata '/Game/WBP_MainHUD.PackageMetaData'
+[2020.08.20-19.13.01:280][ 76]LogMetaData: Removing '/Game/MenuSystem/WBP_MainHUD.SKEL_WBP_MainHUD_C:Tick' ref from Metadata '/Game/WBP_MainHUD.PackageMetaData'
+[2020.08.20-19.13.01:280][ 76]LogMetaData: Removing '/Game/MenuSystem/WBP_MainHUD.SKEL_WBP_MainHUD_C:Image_3' ref from Metadata '/Game/WBP_MainHUD.PackageMetaData'
+[2020.08.20-19.13.01:280][ 76]LogMetaData: Removing '/Game/MenuSystem/WBP_MainHUD.WBP_MainHUD_C:Image_3' ref from Metadata '/Game/WBP_MainHUD.PackageMetaData'
+[2020.08.20-19.13.01:350][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuSystem/WBP_MainHUD" FILE="../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Content/MenuSystem/WBP_MainHUD.uasset" SILENT=true
+[2020.08.20-19.13.01:440][ 76]LogSavePackage: Moving '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Saved/WBP_MainHUD45597ABF4BC80AB7AE6C94942E3FAC2D.tmp' to '../../../../../../Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/Content/MenuSystem/WBP_MainHUD.uasset'
+[2020.08.20-19.13.01:633][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.08.20-19.13.01:670][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.08.20-19.13.01:699][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.08.20-19.13.01:732][ 76]AssetCheck: New page: Asset Save: WBP_MainHUD
+[2020.08.20-19.13.01:733][ 76]LogContentValidation: Display: Validating WidgetBlueprint /Game/MenuSystem/WBP_MainHUD.WBP_MainHUD
+[2020.08.20-19.13.40:629][318]Candidate modules for hot reload:
+[2020.08.20-19.13.40:629][318]  PuzzlePlatforms
+[2020.08.20-19.13.40:630][318]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PuzzlePlatforms,8902 Win64 Development -TargetType=Editor -Project="C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject" "C:/Users/harsh.DESKTOP-UNEK68K/Desktop/Multiplayer/PuzzlePlatforms/PuzzlePlatforms.uproject"  -IgnoreJunk]
+[2020.08.20-19.13.40:642][318]Warning: Starting HotReload took  0.1s.
+[2020.08.20-19.15.14:309][461]CompilerResultsLog: New page: Compilation - Aug 20, 2020, 9:15:14 PM
+[2020.08.20-19.15.14:310][461]CompilerResultsLog: WARNING: The 'Developer' module type has been deprecated in 4.24. Use 'DeveloperTool' for modules that can be loaded by game/client/server targets in non-shipping configurations, or 'UncookedOnly' for modules that should only be loaded by uncooked editor and program targets (eg. modules containing blueprint nodes)
+[2020.08.20-19.15.14:310][461]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Marketplace\RLLiveLink\RLLiveLink.uplugin: warning: The 'Developer' module type has been deprecated in 4.24.
+[2020.08.20-19.15.14:310][461]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer).
+[2020.08.20-19.15.14:310][461]CompilerResultsLog: Parsing headers for PuzzlePlatformsEditor
+[2020.08.20-19.15.14:310][461]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\PuzzlePlatforms.uproject" "C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\PuzzlePlatformsEditor\Development\PuzzlePlatformsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.20-19.15.14:310][461]CompilerResultsLog: Reflection code generated for PuzzlePlatformsEditor in 21.7422966 seconds
+[2020.08.20-19.15.14:310][461]CompilerResultsLog: Building PuzzlePlatformsEditor...
+[2020.08.20-19.15.14:310][461]CompilerResultsLog: Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.14393.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.20-19.15.14:310][461]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.08.20-19.15.14:310][461]CompilerResultsLog:   [1/4] PuzzlePlatformsGameInstance.cpp
+[2020.08.20-19.15.14:310][461]CompilerResultsLog:   [2/4] UE4Editor-PuzzlePlatforms-8902.lib
+[2020.08.20-19.15.14:310][461]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-8902.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-8902.exp
+[2020.08.20-19.15.14:310][461]CompilerResultsLog:   [3/4] UE4Editor-PuzzlePlatforms-8902.dll
+[2020.08.20-19.15.14:310][461]CompilerResultsLog:      Creating library C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-8902.suppressed.lib and object C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatforms\UE4Editor-PuzzlePlatforms-8902.suppressed.exp
+[2020.08.20-19.15.14:310][461]CompilerResultsLog:   [4/4] PuzzlePlatformsEditor.target
+[2020.08.20-19.15.14:310][461]CompilerResultsLog: Total time in Parallel executor: 67.85 seconds
+[2020.08.20-19.15.14:310][461]CompilerResultsLog: Total execution time: 93.34 seconds
+[2020.08.20-19.15.14:310][461]LogMainFrame: MainFrame: Module compiling took 93.691 seconds
+[2020.08.20-19.15.14:343][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.08.20-19.15.14:445][461]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Game/MenuSystem/WBP_MainHUD' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.08.20-19.15.14:446][461]LogLinker: Warning: Failed to load 'Game/MenuSystem/WBP_MainHUD': Can't find file.
+[2020.08.20-19.15.14:446][461]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Game/MenuSystem/WBP_MainHUD' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.08.20-19.15.14:446][461]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Game/MenuSystem/WBP_MainHUD' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.08.20-19.15.14:446][461]LogLinker: Warning: Failed to load 'Game/MenuSystem/WBP_MainHUD': Can't find file.
+[2020.08.20-19.15.14:447][461]LogUObjectGlobals: Warning: Failed to find object 'Class Game/MenuSystem/WBP_MainHUD.WBP_MainHUD_C'
+[2020.08.20-19.15.14:447][461]Error: CDO Constructor (PuzzlePlatformsGameInstance): Failed to find Game/MenuSystem/WBP_MainHUD.WBP_MainHUD_C
+
+[2020.08.20-19.15.14:447][461]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.20-19.15.15:013][461]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.567 s
+[2020.08.20-19.15.15:013][461]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.20-19.15.15:013][461]LogOutputDevice: Error: 
+[2020.08.20-19.15.15:013][461]LogOutputDevice: Error: Ensure condition failed: MainHUDBPClass.Class != nullptr [File:C:\Users\harsh.DESKTOP-UNEK68K\Desktop\Multiplayer\PuzzlePlatforms\Source\PuzzlePlatforms\PuzzlePlatformsGameInstance.cpp] [Line: 27]
+[2020.08.20-19.15.15:013][461]LogOutputDevice: Error: 
+[2020.08.20-19.15.15:013][461]LogOutputDevice: Error: Stack: 
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd3bfb8b78 UE4Editor-PuzzlePlatforms-8902.dll!<lambda_f519e3b0702701967ca9dd125e0077a2>::operator()() [c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\puzzleplatformsgameinstance.cpp:27]
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd3bfacc69 UE4Editor-PuzzlePlatforms-8902.dll!UPuzzlePlatformsGameInstance::UPuzzlePlatformsGameInstance() [c:\users\harsh.desktop-unek68k\desktop\multiplayer\puzzleplatforms\source\puzzleplatforms\puzzleplatformsgameinstance.cpp:27]
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd49ff42b2 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd49fe3a2a UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd49feaa1d UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd49ff6969 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd49ff6ce4 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd49fef956 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd92bb2b1b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd92ed0067 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd92eb1176 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd92de5785 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd91cec487 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd91d0aa1b UE4Editor-Core.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd91d09ac8 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd49febb03 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd49fe9817 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd49fea212 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd49ffc4d8 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffd91a990b5 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ff68657ad74 UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ff68658c3ec UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ff68658c4ca UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ff68659ceae UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ff68659fcbe UE4Editor.exe!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffddcbd7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: [Callstack] 0x00007ffdde42ce51 ntdll.dll!UnknownFunction []
+[2020.08.20-19.15.15:014][461]LogOutputDevice: Error: 
+[2020.08.20-19.15.15:019][461]LogStats:                SubmitErrorReport -  0.000 s

@@ -25,6 +25,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_NATIVE_END; \
 	} \
  \
+	DECLARE_FUNCTION(execLoadHUD) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->LoadHUD(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execHost) \
 	{ \
 		P_FINISH; \
@@ -58,6 +66,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
 		P_THIS->Join(Z_Param_Address); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execLoadHUD) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->LoadHUD(); \
 		P_NATIVE_END; \
 	} \
  \

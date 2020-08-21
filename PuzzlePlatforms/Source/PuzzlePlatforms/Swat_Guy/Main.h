@@ -33,7 +33,17 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera)
 	float BaseLookUpRate;
 
-	bool Option;
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = Health)
+	float ArmorStrength;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = Health)
+	float HealthStrength;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = Health)
+	float MaxArmorStrength;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = Health)
+	float MaxHealthStrength;
 
 protected:
 	// Called when the game starts or when spawned
@@ -64,4 +74,5 @@ public:
 
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
 	FORCEINLINE class UCameraComponent* GetFollowCamera() const { return FollowCamera; }
+
 };

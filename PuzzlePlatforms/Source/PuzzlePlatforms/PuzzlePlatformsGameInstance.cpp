@@ -22,6 +22,12 @@ UPuzzlePlatformsGameInstance::UPuzzlePlatformsGameInstance(const FObjectInitiali
 	if (!ensure(InGameMenuBPClass.Class != nullptr)) return;
 
 	InGameMenuClass = InGameMenuBPClass.Class;
+
+	ConstructorHelpers::FClassFinder<UUserWidget> MainHUDBPClass(TEXT("/Game/MenuSystem/WBP_InGameHealth"));
+	if (!ensure(MainHUDBPClass.Class != nullptr)) return;
+
+	MainHUD = MainHUDBPClass.Class;
+
 }
 
 void UPuzzlePlatformsGameInstance::Init()
@@ -69,6 +75,19 @@ void UPuzzlePlatformsGameInstance::Host()
 	if (!ensure(World != nullptr)) return;
 
 	World->ServerTravel("/Game/industrial_area/Maps/industrial_area_demo?listen");
+}
+
+void UPuzzlePlatformsGameInstance::LoadHUD()
+{
+
+	if (!ensure(MainHUD != nullptr)) return;
+
+	UMenuWidget* HUDMain = CreateWidget<UMenuWidget>(this, MainHUD);
+	if (!ensure(HUDMain != nullptr)) return;
+
+	HUDMain->SetupWithGameMode();
+
+	HUDMain->SetMenuInterface(this);
 }
 
 void UPuzzlePlatformsGameInstance::Join(const FString& Address)

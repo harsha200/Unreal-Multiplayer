@@ -265,7 +265,13 @@
     <NMakeOutput>..\..\Binaries\Win64\PuzzlePlatforms-Win64-Shipping.exe</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\PuzzlePlatforms\HUDMain.cpp" />
+    <ClCompile Include="..\..\Source\PuzzlePlatforms\MainHUD.cpp" />
+    <ClCompile Include="..\..\Source\PuzzlePlatforms\MainPlayerController.cpp" />
     <ClCompile Include="..\..\Source\PuzzlePlatforms\Swat_Guy\MainAnimInstance.cpp" />
+    <ClInclude Include="..\..\Source\PuzzlePlatforms\HUDMain.h" />
+    <ClInclude Include="..\..\Source\PuzzlePlatforms\MainHUD.h" />
+    <ClInclude Include="..\..\Source\PuzzlePlatforms\MainPlayerController.h" />
     <ClInclude Include="..\..\Source\PuzzlePlatforms\Swat_Guy\MainAnimInstance.h" />
     <None Include="..\..\PuzzlePlatforms.uproject" />
     <None Include="..\..\Source\PuzzlePlatforms.Target.cs" />
